@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.2">
+	<Story Self="u979d" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Text_Pis">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
+				<Content>Kann ich SARSTEDT CryoPure Röhren in der Flüssigphase von flüssigem Stickstoff lagern? </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+				<Content>Nein, SARSTEDT CryoPure Röhren sind nicht für die Lagerung in der Flüssigphase von flüssigem Stickstoff geeignet, sondern nur für die Gasphase von flüssigem Stickstoff (</Content>
+				<HyperlinkTextSource Self="u9a38" Name="Hyperlink 261" Hidden="false" AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+					<Content>siehe 7.1</Content>
+				</HyperlinkTextSource>
+				<Content>).</Content>
+				<Br />
+				<Content> </Content>
+				<Br />
+				<Br />
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
+				<Content>Sind SARSTEDT CryoPure Röhren geeignet für den Probentransport? </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+				<Content>Die CryoPure Gefäße sind nicht für den Transport geeignet.</Content>
+				<Br />
+				<Content>Sie sind gemäß der ADR- (Verpackungsanweisung P650) und der IATA-Richtlinie keine Primärgefäße für den Transport.</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

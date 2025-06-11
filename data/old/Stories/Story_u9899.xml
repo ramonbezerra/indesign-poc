@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.2">
+	<Story Self="u9899" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Text_Pis">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
+				<Content>Lagerung von SARSTEDT CryoPure Röhren in flüssigem Stickstoff</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+				<Br />
+				<Content>Bei unsachgemäßem Gebrauch, wenn das CryoPure Gefäß in der Flüssigphase des Stickstoffs gelagert wird, kann flüssiger Stickstoff in die Röhre eindringen und die Probe kontaminieren, da sich durch die sinkenden Temperaturen ein Unterdruck in der Röhre bildet. Der eingedrungene Stickstoff würde beim Auftauen der Probe in die Gasphase übergehen und einen erhöhten Innendruck erzeugen, der zur Explosion und Freisetzung von infektiösem Material führen kann. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Properties>
+					<Leading type="unit">6</Leading>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Folgende Sicherheitsmaßnahmen sollten beim Umgang mit Flüssigstickstoff immer eingehalten werden: </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Properties>
+					<Leading type="unit">6</Leading>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Bullet Points">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>CryoPure Gefäße nur in der Gasphase von Flüssigstickstoff lagern.</Content>
+				<Br />
+				<Content>CryoPure Gefäße bis zur Nennmarkierung füllen. Über- oder Unterfüllung erhöht das Kontaminations- und Explosionsrisiko.</Content>
+				<Br />
+				<Content>CryoPure Gefäße handfest zudrehen, nicht überdrehen und keine Hilfsmittel benutzen.</Content>
+				<Br />
+				<Content>Persönliche Schutzausrüstung tragen. Flüssigstickstoff kann u.a. Kälteverbrennungen, Erfrierungen sowie schwere Augenschädigungen hervorrufen.</Content>
+				<Br />
+				<Content>CryoPure Gefäße in einem abgedeckten Behälter (z.B. Wasserbad) auftauen.</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.2">
+	<Story Self="u4b41" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Text Pis_12pt">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/LOD%3aSimpleBold">
+				<Content>Innen- und Außengewinde</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Bullet Points_12">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>SARSTEDT bietet hochtransparenten CryoPure Röhren mit verschiedenen Fassungsvolumina und Gewindetypen an.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Bullet Points Unterpunkte 12pt">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Um das Kontaminationsrisiko minimieren zu können, stehen CryoPure Röhren mit sicherem Außengewinde und Nennvolumina von 1,8 ml bis 4,5 ml zur Verfügung . </Content>
+				<Br />
+				<Content>Um die Lagerdichte auf ein 10 x 10 Raster erhöhen zu können, sind außerdem CryoPure Röhren mit Innengewinde und Silikondichtring mit einem Nennvolumen von 1,6 ml verfügbar.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Text Pis_12pt">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
+				<Content>Ergonomischer Verschluss</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Bullet Points_12">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Durch den QuickSeal Verschlussmechanismus ist ein sicheres Öffnen und Schließen beider Verschlusstypen mit nur einer Umdrehung gewährleistet.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Text Pis_12pt">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
+				<Content>Farbcodierung</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Bullet Points_12">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Durch die Kombination von 6 verschiedenfarbigen Kappen mit 6 verschiedenfarbigen Codierplättchen ergeben sich bis zu 36 Farbkombinationen zur visuellen Kodierung und einfachen Identifizierung der Proben.</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

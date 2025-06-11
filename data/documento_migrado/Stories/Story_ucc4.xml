@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.3">
+	<Story Self="ucc4" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<XMLElement Self="di3i7" MarkupTag="XMLTag/Textbox" XMLContent="ucc4">
+			<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/[No paragraph style]" HyphenationZone="49.9763219616485" SpaceAfter="3.9351434615471264" RuleAboveLineWeight="1.3882311656013473" RuleBelowLineWeight="1.3882311656013473" DropcapDetail="0" SplitColumnInsideGutter="8.329386993608082" ParagraphShadingTint="-1" TreatIdeographicSpaceAsSpace="false" BulletsAndNumberingListType="BulletList" ParagraphBorderTopLeftCornerRadius="1.3882311656013473" ParagraphBorderTopRightCornerRadius="1.3882311656013473" ParagraphBorderBottomLeftCornerRadius="1.3882311656013473" ParagraphBorderBottomRightCornerRadius="1.3882311656013473" ParagraphShadingTopLeftCornerRadius="1.3882311656013473" ParagraphShadingTopRightCornerRadius="1.3882311656013473" ParagraphShadingBottomLeftCornerRadius="1.3882311656013473" ParagraphShadingBottomRightCornerRadius="1.3882311656013473" ParagraphBorderTopLineWeight="1.3882311656013473" ParagraphBorderBottomLineWeight="1.3882311656013473" ParagraphBorderLeftLineWeight="1.3882311656013473" ParagraphBorderRightLineWeight="1.3882311656013473">
+				<Properties>
+					<TabList type="list">
+						<ListItem type="record">
+							<Alignment type="enumeration">LeftAlign</Alignment>
+							<AlignmentCharacter type="string">.</AlignmentCharacter>
+							<Leader type="string"></Leader>
+							<Position type="unit">17.708145576962067</Position>
+						</ListItem>
+					</TabList>
+					<Mojikumi type="enumeration">LineEndAllOneHalfEmEnum</Mojikumi>
+					<KinsokuSet type="enumeration">HardKinsoku</KinsokuSet>
+					<BulletChar BulletCharacterType="UnicodeWithFont" BulletCharacterValue="9632" />
+					<BulletsFont type="string">Clear Sans</BulletsFont>
+					<BulletsFontStyle type="string">Regular</BulletsFontStyle>
+					<BulletsCharacterStyle type="object">CharacterStyle/Rot</BulletsCharacterStyle>
+					<SameParaStyleSpacing type="unit">-0.9876686313601255</SameParaStyleSpacing>
+				</Properties>
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="11.105849324810778" Ligatures="false" StrokeWeight="1.3882311656013473" MiterLimit="5.552924662405389" RubyFontSize="-1.3882311656013473" KentenFontSize="-1.3882311656013473" DiacriticPosition="OpentypePosition">
+					<Properties>
+						<Leading type="unit">13.882311656013474</Leading>
+						<AppliedFont type="string">Clear Sans</AppliedFont>
+					</Properties>
+					<XMLElement Self="di3i7i1" MarkupTag="XMLTag/Table" XMLContent="ucc4i1117" NoTextMarker="true">
+						<Table Self="ucc4i1117" HeaderRowCount="0" FooterRowCount="0" TextTopInset="5.552924662405389" TextLeftInset="5.552924662405389" TextBottomInset="5.552924662405389" TextRightInset="5.552924662405389" ClipContentToTextCell="false" BodyRowCount="8" ColumnCount="4" AppliedTableStyle="TableStyle/Tabelle_Broschüre" TableDirection="LeftToRightDirection" SingleRowHeight="4.164693496804041" SingleColumnWidth="3" LeftInset="5.552924662405389" TopInset="5.552924662405389" RightInset="5.552924662405389" BottomInset="5.552924662405389" DefaultRowStrokeWeight="1.3882311656013473" DefaultColumnStrokeWeight="1.3882311656013473" MinimumHeight="4.164693496804041" MaximumHeight="832.9386993608084" StartRowStrokeWeight="1.3882311656013473" EndRowStrokeWeight="0.3470577914003368" StartColumnStrokeWeight="1.3882311656013473" EndColumnStrokeWeight="0.3470577914003368" DiagonalLineStrokeWeight="1.3882311656013473">
+							<Row Self="ucc4i1117Row0" Name="0" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="0" ClipContentToTextCell="false" SingleRowHeight="27.546004230829883" MinimumHeight="27.546004230829883" AutoGrow="false" />
+							<Row Self="ucc4i1117Row1" Name="1" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="0" ClipContentToTextCell="false" SingleRowHeight="27.546004230829883" MinimumHeight="27.546004230829883" AutoGrow="false" />
+							<Row Self="ucc4i1117Row2" Name="2" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="5.552924662405389" ClipContentToTextCell="false" SingleRowHeight="89.59009947455627" MinimumHeight="89.59009947455627" AutoGrow="true" />
+							<Row Self="ucc4i1117Row3" Name="3" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="5.552924662405389" ClipContentToTextCell="false" SingleRowHeight="89.59009947455627" MinimumHeight="89.59009947455627" AutoGrow="true" />
+							<Row Self="ucc4i1117Row4" Name="4" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="5.552924662405389" ClipContentToTextCell="false" SingleRowHeight="89.59009947455627" MinimumHeight="89.59009947455627" AutoGrow="true" />
+							<Row Self="ucc4i1117Row5" Name="5" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="3.9351434615471264" ClipContentToTextCell="false" SingleRowHeight="89.59009947455627" MinimumHeight="89.59009947455627" AutoGrow="true" />
+							<Row Self="ucc4i1117Row6" Name="6" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="3.9351434615471264" ClipContentToTextCell="false" SingleRowHeight="89.59009947455627" MinimumHeight="89.59009947455627" AutoGrow="true" />
+							<Row Self="ucc4i1117Row7" Name="7" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="3.9351434615471264" ClipContentToTextCell="false" SingleRowHeight="89.59009947455627" MinimumHeight="89.59009947455627" AutoGrow="true" />
+							<Column Self="ucc4i1117Column0" Name="0" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="0" ClipContentToTextCell="false" SingleColumnWidth="125.92459076950804" />
+							<Column Self="ucc4i1117Column1" Name="1" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="0" ClipContentToTextCell="false" SingleColumnWidth="64.92986711552766" />
+							<Column Self="ucc4i1117Column2" Name="2" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="0" ClipContentToTextCell="false" SingleColumnWidth="78.70286923094254" />
+							<Column Self="ucc4i1117Column3" Name="3" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="0" ClipContentToTextCell="false" SingleColumnWidth="86.57315615403678" />
+							<Cell Self="ucc4i1117i0" Name="0:0" RowSpan="1" ColumnSpan="4" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Kopf" AppliedCellStylePriority="1017144" LeftInset="5.599381217159767" TopInset="2.7996906085798834" BottomInset="2.7996906085798834" BottomEdgeStrokeWeight="0.6941155828006736" BottomEdgeStrokeColor="Color/Paper" LeftEdgeStrokePriority="730" RightEdgeStrokePriority="1" TopEdgeStrokePriority="732" BottomEdgeStrokePriority="684">
+								<XMLElement Self="di3i7i1i2" MarkupTag="XMLTag/Zelle" XMLContent="ucc4i1117i0">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Headline_medium_16pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>SARSTEDT</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117i4" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Kopf" AppliedCellStylePriority="1017144" LeftInset="5.599381217159767" TopInset="2.7996906085798834" BottomInset="2.7996906085798834" TopEdgeStrokeWeight="0.6941155828006736" TopEdgeStrokeColor="Color/Paper" LeftEdgeStrokePriority="733" RightEdgeStrokePriority="734" TopEdgeStrokePriority="684" BottomEdgeStrokePriority="735">
+								<XMLElement Self="di3i7i1i3" MarkupTag="XMLTag/Zelle" XMLContent="ucc4i1117i4">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Bezeichnung</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117i5" Name="1:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Kopf" AppliedCellStylePriority="1017144" LeftInset="5.599381217159767" TopInset="2.7996906085798834" BottomInset="2.7996906085798834" TopEdgeStrokeWeight="0.6941155828006736" TopEdgeStrokeColor="Color/Paper" LeftEdgeStrokePriority="734" RightEdgeStrokePriority="736" TopEdgeStrokePriority="684" BottomEdgeStrokePriority="678">
+								<XMLElement Self="di3i7i1i4" MarkupTag="XMLTag/Zelle" XMLContent="ucc4i1117i5">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Farbcode</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117i6" Name="2:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Kopf" AppliedCellStylePriority="1638492" LeftInset="5.599381217159767" TopInset="2.7996906085798834" BottomInset="2.7996906085798834" TopEdgeStrokeWeight="0.6941155828006736" TopEdgeStrokeColor="Color/Paper" LeftEdgeStrokePriority="736" RightEdgeStrokePriority="737" TopEdgeStrokePriority="684" BottomEdgeStrokePriority="738">
+								<XMLElement Self="di3i7i1i5" MarkupTag="XMLTag/Zelle" XMLContent="ucc4i1117i6">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Etikett</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117i7" Name="3:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Kopf" AppliedCellStylePriority="15763602" LeftInset="5.599381217159767" TopInset="2.7996906085798834" BottomInset="2.7996906085798834" TopEdgeStrokeWeight="0.6941155828006736" TopEdgeStrokeColor="Color/Paper" LeftEdgeStrokePriority="737" RightEdgeStrokePriority="739" TopEdgeStrokePriority="684" BottomEdgeStrokePriority="740">
+								<XMLElement Self="di3i7i1i6" MarkupTag="XMLTag/Zelle" XMLContent="ucc4i1117i7">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Bestell-Nr.</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117i8" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="5.552924662405389" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" LeftInset="5.599381217159767" TopInset="2.7996906085798834" RightInset="5.552924662405389" BottomInset="2.7996906085798834" BottomEdgeStrokeWeight="0.3470577914003368" ClipContentToCell="false" LeftEdgeStrokePriority="728" RightEdgeStrokePriority="694" TopEdgeStrokePriority="735" BottomEdgeStrokePriority="741">
+								<XMLElement Self="di3i7i1i7" MarkupTag="XMLTag/Zelle" XMLContent="ucc4i1117i8">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>S-Monovette</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleSuperscript">
+											<Content>®</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>  1,6 ml Serum CAT, 75x13 mm</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117i9" Name="1:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="3.9351434615471264" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" LeftInset="5.599381217159767" TopInset="2.7996906085798834" RightInset="3.9351434615471264" BottomInset="2.7996906085798834" FillTint="30" RightEdgeStrokeWeight="0" BottomEdgeStrokeWeight="0.3470577914003368" ClipContentToCell="false" LeftEdgeStrokePriority="694" RightEdgeStrokePriority="694" TopEdgeStrokePriority="678" BottomEdgeStrokePriority="742">
+								<XMLElement Self="di3i7i1i8" MarkupTag="XMLTag/Zelle" XMLContent="ucc4i1117i9">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>EU</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117ia" Name="2:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="5.552924662405389" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" LeftInset="5.599381217159767" TopInset="2.7996906085798834" RightInset="5.552924662405389" BottomInset="2.7996906085798834" LeftEdgeStrokeWeight="0" BottomEdgeStrokeWeight="0.3470577914003368" ClipContentToCell="false" LeftEdgeStrokePriority="694" RightEdgeStrokePriority="704" TopEdgeStrokePriority="738" BottomEdgeStrokePriority="743">
+								<XMLElement Self="di3i7i1i9" MarkupTag="XMLTag/Cell" XMLContent="ucc4i1117ia">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>transparent</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117ib" Name="3:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="5.552924662405389" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" LeftInset="5.599381217159767" TopInset="2.7996906085798834" RightInset="5.552924662405389" BottomInset="2.7996906085798834" BottomEdgeStrokeWeight="0.3470577914003368" ClipContentToCell="false" LeftEdgeStrokePriority="704" RightEdgeStrokePriority="728" TopEdgeStrokePriority="740" BottomEdgeStrokePriority="744">
+								<XMLElement Self="di3i7i1ia" MarkupTag="XMLTag/Zelle" XMLContent="ucc4i1117ib">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
+											<Content>04.2911</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117ic" Name="0:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="5.552924662405389" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" LeftInset="5.599381217159767" TopInset="2.7996906085798834" RightInset="5.552924662405389" BottomInset="2.7996906085798834" TopEdgeStrokeWeight="0.3470577914003368" BottomEdgeStrokeWeight="0.3470577914003368" ClipContentToCell="false" LeftEdgeStrokePriority="728" RightEdgeStrokePriority="694" TopEdgeStrokePriority="741" BottomEdgeStrokePriority="745">
+								<XMLElement Self="di3i7i1ib" MarkupTag="XMLTag/Zelle" XMLContent="ucc4i1117ic">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>S-Monovette</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleSuperscript">
+											<Content>®</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content> 1,6 ml Serum CAT, 75x13 mm</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117id" Name="1:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="3.9351434615471264" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" LeftInset="5.599381217159767" TopInset="2.7996906085798834" RightInset="3.9351434615471264" BottomInset="2.7996906085798834" FillTint="30" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470577914003368" BottomEdgeStrokeWeight="0.3470577914003368" ClipContentToCell="false" LeftEdgeStrokePriority="694" RightEdgeStrokePriority="694" TopEdgeStrokePriority="742" BottomEdgeStrokePriority="746">
+								<XMLElement Self="di3i7i1ic" MarkupTag="XMLTag/Zelle" XMLContent="ucc4i1117id">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>EU</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117ie" Name="2:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="5.552924662405389" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" LeftInset="5.599381217159767" TopInset="2.7996906085798834" RightInset="5.552924662405389" BottomInset="2.7996906085798834" LeftEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470577914003368" BottomEdgeStrokeWeight="0.3470577914003368" ClipContentToCell="false" LeftEdgeStrokePriority="694" RightEdgeStrokePriority="704" TopEdgeStrokePriority="743" BottomEdgeStrokePriority="747">
+								<XMLElement Self="di3i7i1id" MarkupTag="XMLTag/Cell" XMLContent="ucc4i1117ie">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Papier</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117if" Name="3:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="5.552924662405389" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" LeftInset="5.599381217159767" TopInset="2.7996906085798834" RightInset="5.552924662405389" BottomInset="2.7996906085798834" TopEdgeStrokeWeight="0.3470577914003368" BottomEdgeStrokeWeight="0.3470577914003368" ClipContentToCell="false" LeftEdgeStrokePriority="704" RightEdgeStrokePriority="728" TopEdgeStrokePriority="744" BottomEdgeStrokePriority="748">
+								<XMLElement Self="di3i7i1ie" MarkupTag="XMLTag/Zelle" XMLContent="ucc4i1117if">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
+											<Content>04.2911.001</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117i10" Name="0:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="5.552924662405389" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" LeftInset="5.599381217159767" TopInset="2.7996906085798834" RightInset="5.552924662405389" BottomInset="2.7996906085798834" TopEdgeStrokeWeight="0.3470577914003368" BottomEdgeStrokeWeight="0.3470577914003368" ClipContentToCell="false" LeftEdgeStrokePriority="728" RightEdgeStrokePriority="694" TopEdgeStrokePriority="745" BottomEdgeStrokePriority="749">
+								<XMLElement Self="di3i7i1if" MarkupTag="XMLTag/Zelle" XMLContent="ucc4i1117i10">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>S-Monovette</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleSuperscript">
+											<Content>®</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content> 1,6 ml Serum CAT, 75x13 mm</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117i11" Name="1:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="3.9351434615471264" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" LeftInset="5.599381217159767" TopInset="2.7996906085798834" RightInset="3.9351434615471264" BottomInset="2.7996906085798834" FillTint="30" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470577914003368" BottomEdgeStrokeWeight="0.3470577914003368" ClipContentToCell="false" LeftEdgeStrokePriority="694" RightEdgeStrokePriority="694" TopEdgeStrokePriority="746" BottomEdgeStrokePriority="750">
+								<XMLElement Self="di3i7i1i10" MarkupTag="XMLTag/Zelle" XMLContent="ucc4i1117i11">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>EU</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117i12" Name="2:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="5.552924662405389" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" LeftInset="5.599381217159767" TopInset="2.7996906085798834" RightInset="5.552924662405389" BottomInset="2.7996906085798834" LeftEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470577914003368" BottomEdgeStrokeWeight="0.3470577914003368" ClipContentToCell="false" LeftEdgeStrokePriority="694" RightEdgeStrokePriority="704" TopEdgeStrokePriority="747" BottomEdgeStrokePriority="751">
+								<XMLElement Self="di3i7i1i11" MarkupTag="XMLTag/Cell" XMLContent="ucc4i1117i12">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>transparent</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117i13" Name="3:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="5.552924662405389" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" LeftInset="5.599381217159767" TopInset="2.7996906085798834" RightInset="5.552924662405389" BottomInset="2.7996906085798834" TopEdgeStrokeWeight="0.3470577914003368" BottomEdgeStrokeWeight="0.3470577914003368" ClipContentToCell="false" LeftEdgeStrokePriority="704" RightEdgeStrokePriority="728" TopEdgeStrokePriority="748" BottomEdgeStrokePriority="752">
+								<XMLElement Self="di3i7i1i12" MarkupTag="XMLTag/Zelle" XMLContent="ucc4i1117i13">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
+											<Content>04.2911.200</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117i14" Name="0:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="3.9351434615471264" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" LeftInset="5.599381217159767" TopInset="2.7996906085798834" RightInset="3.9351434615471264" BottomInset="2.7996906085798834" FillTint="30" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470577914003368" BottomEdgeStrokeWeight="0.3470577914003368" ClipContentToCell="false" LeftEdgeStrokePriority="728" RightEdgeStrokePriority="722" TopEdgeStrokePriority="749" BottomEdgeStrokePriority="753">
+								<XMLElement Self="di3i7i1i13" MarkupTag="XMLTag/Zelle" XMLContent="ucc4i1117i14">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>S-Monovette</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleSuperscript">
+											<Content>®</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content> 1,6 ml Lithium-Heparin LH, 75x13 mm</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117i15" Name="1:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="3.9351434615471264" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" LeftInset="5.599381217159767" TopInset="2.7996906085798834" RightInset="3.9351434615471264" BottomInset="2.7996906085798834" FillTint="30" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470577914003368" BottomEdgeStrokeWeight="0.3470577914003368" ClipContentToCell="false" LeftEdgeStrokePriority="722" RightEdgeStrokePriority="694" TopEdgeStrokePriority="750" BottomEdgeStrokePriority="754">
+								<XMLElement Self="di3i7i1i14" MarkupTag="XMLTag/Zelle" XMLContent="ucc4i1117i15">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>ISO</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117i16" Name="2:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="5.552924662405389" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" LeftInset="5.599381217159767" TopInset="2.7996906085798834" RightInset="5.552924662405389" BottomInset="2.7996906085798834" LeftEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470577914003368" BottomEdgeStrokeWeight="0.3470577914003368" ClipContentToCell="false" LeftEdgeStrokePriority="694" RightEdgeStrokePriority="704" TopEdgeStrokePriority="751" BottomEdgeStrokePriority="755">
+								<XMLElement Self="di3i7i1i15" MarkupTag="XMLTag/Cell" XMLContent="ucc4i1117i16">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>transparent</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117i17" Name="3:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="3.9351434615471264" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" LeftInset="5.599381217159767" TopInset="2.7996906085798834" RightInset="3.9351434615471264" BottomInset="2.7996906085798834" FillTint="30" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470577914003368" BottomEdgeStrokeWeight="0.3470577914003368" ClipContentToCell="false" LeftEdgeStrokePriority="704" RightEdgeStrokePriority="728" TopEdgeStrokePriority="752" BottomEdgeStrokePriority="756">
+								<XMLElement Self="di3i7i1i16" MarkupTag="XMLTag/Zelle" XMLContent="ucc4i1117i17">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
+											<Content>04.2913</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117i18" Name="0:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="3.9351434615471264" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" LeftInset="5.599381217159767" TopInset="2.7996906085798834" RightInset="3.9351434615471264" BottomInset="2.7996906085798834" FillTint="30" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470577914003368" BottomEdgeStrokeWeight="0.3470577914003368" ClipContentToCell="false" LeftEdgeStrokePriority="728" RightEdgeStrokePriority="722" TopEdgeStrokePriority="753" BottomEdgeStrokePriority="757">
+								<XMLElement Self="di3i7i1i17" MarkupTag="XMLTag/Zelle" XMLContent="ucc4i1117i18">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>S-Monovette</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleSuperscript">
+											<Content>®</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content> 1,6 ml Lithium-Heparin LH, 75x13 mm</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117i19" Name="1:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="3.9351434615471264" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" LeftInset="5.599381217159767" TopInset="2.7996906085798834" RightInset="3.9351434615471264" BottomInset="2.7996906085798834" FillTint="30" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470577914003368" BottomEdgeStrokeWeight="0.3470577914003368" ClipContentToCell="false" LeftEdgeStrokePriority="722" RightEdgeStrokePriority="694" TopEdgeStrokePriority="754" BottomEdgeStrokePriority="758">
+								<XMLElement Self="di3i7i1i18" MarkupTag="XMLTag/Zelle" XMLContent="ucc4i1117i19">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>ISO</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117i1a" Name="2:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="5.552924662405389" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" LeftInset="5.599381217159767" TopInset="2.7996906085798834" RightInset="5.552924662405389" BottomInset="2.7996906085798834" LeftEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470577914003368" BottomEdgeStrokeWeight="0.3470577914003368" ClipContentToCell="false" LeftEdgeStrokePriority="694" RightEdgeStrokePriority="704" TopEdgeStrokePriority="755" BottomEdgeStrokePriority="759">
+								<XMLElement Self="di3i7i1i19" MarkupTag="XMLTag/Cell" XMLContent="ucc4i1117i1a">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Papier</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117i1b" Name="3:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="3.9351434615471264" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" LeftInset="5.599381217159767" TopInset="2.7996906085798834" RightInset="3.9351434615471264" BottomInset="2.7996906085798834" FillTint="30" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470577914003368" BottomEdgeStrokeWeight="0.3470577914003368" ClipContentToCell="false" LeftEdgeStrokePriority="704" RightEdgeStrokePriority="728" TopEdgeStrokePriority="756" BottomEdgeStrokePriority="760">
+								<XMLElement Self="di3i7i1i1a" MarkupTag="XMLTag/Zelle" XMLContent="ucc4i1117i1b">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
+											<Content>04.2913.001</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117i1c" Name="0:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="3.9351434615471264" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body_Abschlusszeile" AppliedCellStylePriority="15763604" LeftInset="5.599381217159767" TopInset="2.7996906085798834" RightInset="3.9351434615471264" BottomInset="2.7996906085798834" FillTint="30" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470577914003368" BottomEdgeStrokeWeight="0.6941155828006736" ClipContentToCell="false" LeftEdgeStrokePriority="728" RightEdgeStrokePriority="722" TopEdgeStrokePriority="757" BottomEdgeStrokePriority="761">
+								<XMLElement Self="di3i7i1i1b" MarkupTag="XMLTag/Zelle" XMLContent="ucc4i1117i1c">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>S-Monovette</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleSuperscript">
+											<Content>®</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Br />
+											<Content>1,6 ml Lithium-Heparin LH, 75x13 mm</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117i1d" Name="1:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="3.9351434615471264" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body_Abschlusszeile" AppliedCellStylePriority="15763604" LeftInset="5.599381217159767" TopInset="2.7996906085798834" RightInset="3.9351434615471264" BottomInset="2.7996906085798834" FillTint="30" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470577914003368" BottomEdgeStrokeWeight="0.6941155828006736" ClipContentToCell="false" LeftEdgeStrokePriority="722" RightEdgeStrokePriority="694" TopEdgeStrokePriority="758" BottomEdgeStrokePriority="762">
+								<XMLElement Self="di3i7i1i1c" MarkupTag="XMLTag/Zelle" XMLContent="ucc4i1117i1d">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>ISO</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117i1e" Name="2:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="5.552924662405389" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body_Abschlusszeile" AppliedCellStylePriority="15763604" LeftInset="5.599381217159767" TopInset="2.7996906085798834" RightInset="5.552924662405389" BottomInset="2.7996906085798834" LeftEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470577914003368" BottomEdgeStrokeWeight="0.6941155828006736" ClipContentToCell="false" LeftEdgeStrokePriority="694" RightEdgeStrokePriority="704" TopEdgeStrokePriority="759" BottomEdgeStrokePriority="763">
+								<XMLElement Self="di3i7i1i1d" MarkupTag="XMLTag/Cell" XMLContent="ucc4i1117i1e">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>transparent</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="ucc4i1117i1f" Name="3:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.7996906085798834" TextLeftInset="5.599381217159767" TextBottomInset="2.7996906085798834" TextRightInset="3.9351434615471264" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body_Abschlusszeile" AppliedCellStylePriority="15763604" LeftInset="5.599381217159767" TopInset="2.7996906085798834" RightInset="3.9351434615471264" BottomInset="2.7996906085798834" FillTint="30" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470577914003368" BottomEdgeStrokeWeight="0.6941155828006736" ClipContentToCell="false" LeftEdgeStrokePriority="704" RightEdgeStrokePriority="728" TopEdgeStrokePriority="760" BottomEdgeStrokePriority="764">
+								<XMLElement Self="di3i7i1i1e" MarkupTag="XMLTag/Zelle" XMLContent="ucc4i1117i1f">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
+											<Content>04.2913.200</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+						</Table>
+					</XMLElement>
+				</CharacterStyleRange>
+			</ParagraphStyleRange>
+		</XMLElement>
+	</Story>
+</idPkg:Story>

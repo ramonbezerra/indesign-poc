@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.2">
+	<Story Self="u8185" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Legende%3alegende bulletpoints grün">
+			<Properties>
+				<Mojikumi type="enumeration">Nothing</Mojikumi>
+				<KinsokuSet type="enumeration">Nothing</KinsokuSet>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/medium condensed">
+				<Content>Nicht-mutagen </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="47 Light Condensed">
+				<Properties>
+					<AppliedFont type="string">Helvetica Neue LT W1G</AppliedFont>
+				</Properties>
+				<Content>Der Nachweis zur Abschätzung der Mutagenitätsfreiheit wurde nach dem Ames Test II durchgeführt</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/medium condensed">
+				<Content>DNA-frei  </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="47 Light Condensed">
+				<Properties>
+					<AppliedFont type="string">Helvetica Neue LT W1G</AppliedFont>
+				</Properties>
+				<Content>Humane DNA &lt;0,5 pg/μl, bakterielle DNA &lt;0,02 pg/μl</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/medium condensed">
+				<Content>DNase/RNase-frei  </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="47 Light Condensed">
+				<Properties>
+					<AppliedFont type="string">Helvetica Neue LT W1G</AppliedFont>
+				</Properties>
+				<Content>DNase &lt;1x10</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/EPIM%3ahochgestellt" FontStyle="47 Light Condensed">
+				<Properties>
+					<AppliedFont type="string">Helvetica Neue LT W1G</AppliedFont>
+				</Properties>
+				<Content>-5</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="47 Light Condensed">
+				<Properties>
+					<AppliedFont type="string">Helvetica Neue LT W1G</AppliedFont>
+				</Properties>
+				<Content> U/μl, RNase &lt;1x10</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/EPIM%3ahochgestellt" FontStyle="47 Light Condensed">
+				<Properties>
+					<AppliedFont type="string">Helvetica Neue LT W1G</AppliedFont>
+				</Properties>
+				<Content>-9</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="47 Light Condensed">
+				<Properties>
+					<AppliedFont type="string">Helvetica Neue LT W1G</AppliedFont>
+				</Properties>
+				<Content> Kunitz-units/μl</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.3">
+	<Story Self="u700" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<XMLElement Self="di3i4" MarkupTag="XMLTag/Textbox" XMLContent="u700">
+			<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" HyphenationZone="50.00734410084298" RuleAboveLineWeight="1.3890928916900827" RuleBelowLineWeight="1.3890928916900827" SplitColumnInsideGutter="8.334557350140496" ParagraphBorderTopLeftCornerRadius="16.669114700280993" ParagraphBorderTopRightCornerRadius="16.669114700280993" ParagraphBorderBottomLeftCornerRadius="16.669114700280993" ParagraphBorderBottomRightCornerRadius="16.669114700280993" ParagraphShadingTopLeftCornerRadius="16.669114700280993" ParagraphShadingTopRightCornerRadius="16.669114700280993" ParagraphShadingBottomLeftCornerRadius="16.669114700280993" ParagraphShadingBottomRightCornerRadius="16.669114700280993" ParagraphBorderTopLineWeight="1.3890928916900827" ParagraphBorderBottomLineWeight="1.3890928916900827" ParagraphBorderLeftLineWeight="1.3890928916900827" ParagraphBorderRightLineWeight="1.3890928916900827">
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="16.669114700280993" StrokeWeight="1.3890928916900827" MiterLimit="5.556371566760331" RubyFontSize="-1.3890928916900827" KentenFontSize="-1.3890928916900827">
+					<XMLElement Self="di3i4i1" MarkupTag="XMLTag/Table" XMLContent="u700i11bc" NoTextMarker="true">
+						<Table Self="u700i11bc" HeaderRowCount="0" FooterRowCount="0" TextTopInset="5.556371566760331" TextLeftInset="5.556371566760331" TextBottomInset="5.556371566760331" TextRightInset="5.556371566760331" ClipContentToTextCell="false" BodyRowCount="5" ColumnCount="5" AppliedTableStyle="TableStyle/Tabelle_Broschüre" TableDirection="LeftToRightDirection" SingleRowHeight="4.167278675070248" SingleColumnWidth="3" LeftInset="5.556371566760331" TopInset="5.556371566760331" RightInset="5.556371566760331" BottomInset="5.556371566760331" DefaultRowStrokeWeight="1.3890928916900827" DefaultColumnStrokeWeight="1.3890928916900827" MinimumHeight="4.167278675070248" MaximumHeight="833.4557350140495" StartRowStrokeWeight="1.3890928916900827" EndRowStrokeWeight="0.34727322292252066" StartColumnStrokeWeight="1.3890928916900827" EndColumnStrokeWeight="0.34727322292252066" DiagonalLineStrokeWeight="1.3890928916900827">
+							<Row Self="u700i11bcRow0" Name="0" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="0" ClipContentToTextCell="false" SingleRowHeight="27.563103047708726" MinimumHeight="27.563103047708726" AutoGrow="false" />
+							<Row Self="u700i11bcRow1" Name="1" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.556371566760331" ClipContentToTextCell="false" SingleRowHeight="120.64993057082522" MinimumHeight="120.64993057082522" AutoGrow="false" />
+							<Row Self="u700i11bcRow2" Name="2" TextTopInset="3.9375861496726756" TextLeftInset="7.875172299345351" TextBottomInset="3.9375861496726756" TextRightInset="5.556371566760331" ClipContentToTextCell="false" SingleRowHeight="111.56494090739176" MinimumHeight="111.56494090739176" AutoGrow="false" />
+							<Row Self="u700i11bcRow3" Name="3" TextTopInset="3.9375861496726756" TextLeftInset="7.875172299345351" TextBottomInset="3.9375861496726756" TextRightInset="5.556371566760331" ClipContentToTextCell="false" SingleRowHeight="212.28237885940223" MinimumHeight="212.28237885940223" AutoGrow="false" />
+							<Row Self="u700i11bcRow4" Name="4" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.556371566760331" ClipContentToTextCell="false" SingleRowHeight="212.28237885940223" MinimumHeight="212.28237885940223" AutoGrow="false" />
+							<Column Self="u700i11bcColumn0" Name="0" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="0" ClipContentToTextCell="false" SingleColumnWidth="94.29425054535596" />
+							<Column Self="u700i11bcColumn1" Name="1" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="0" ClipContentToTextCell="false" SingleColumnWidth="220.64428055780425" />
+							<Column Self="u700i11bcColumn2" Name="2" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="0" ClipContentToTextCell="false" SingleColumnWidth="659.4062238940386" />
+							<Column Self="u700i11bcColumn3" Name="3" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="0" ClipContentToTextCell="false" SingleColumnWidth="593.1383339549698" />
+							<Column Self="u700i11bcColumn4" Name="4" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="0" ClipContentToTextCell="false" SingleColumnWidth="210.78550493653503" />
+							<Cell Self="u700i11bci0" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Kopf" AppliedCellStylePriority="1017144" LeftEdgeStrokeWeight="0.6945464458450413" RightEdgeStrokeWeight="0.6945464458450413" LeftEdgeStrokePriority="608" RightEdgeStrokePriority="608" TopEdgeStrokePriority="609" BottomEdgeStrokePriority="610">
+								<XMLElement Self="di3i4i1i2" MarkupTag="XMLTag/Zelle" XMLContent="u700i11bci0">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Titel_Kategorie_medium_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Szenario</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="u700i11bci1" Name="1:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Kopf" AppliedCellStylePriority="1017144" LeftEdgeStrokeWeight="0.6945464458450413" RightEdgeStrokeWeight="0.6945464458450413" LeftEdgeStrokePriority="608" RightEdgeStrokePriority="608" TopEdgeStrokePriority="611" BottomEdgeStrokePriority="612">
+								<XMLElement Self="di3i4i1i3" MarkupTag="XMLTag/Zelle" XMLContent="u700i11bci1">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Titel_Kategorie_medium_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Zielgruppe</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="u700i11bci2" Name="2:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Kopf" AppliedCellStylePriority="1638492" LeftEdgeStrokeWeight="0.6945464458450413" RightEdgeStrokeWeight="0.6945464458450413" LeftEdgeStrokePriority="608" RightEdgeStrokePriority="608" TopEdgeStrokePriority="613" BottomEdgeStrokePriority="614">
+								<XMLElement Self="di3i4i1i4" MarkupTag="XMLTag/Zelle" XMLContent="u700i11bci2">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Titel_Kategorie_medium_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Vorteil für das Krankenhauslabor</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="u700i11bci3" Name="3:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Kopf" AppliedCellStylePriority="1638492" LeftEdgeStrokeWeight="0.6945464458450413" RightEdgeStrokeWeight="0.6945464458450413" LeftEdgeStrokePriority="608" RightEdgeStrokePriority="608" TopEdgeStrokePriority="615" BottomEdgeStrokePriority="616">
+								<XMLElement Self="di3i4i1i5" MarkupTag="XMLTag/Zelle" XMLContent="u700i11bci3">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Titel_Kategorie_medium_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Vorteil für den Anwender auf der Station</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="u700i11bci4" Name="4:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Kopf" AppliedCellStylePriority="1017145" LeftEdgeStrokeWeight="0.6945464458450413" RightEdgeStrokeWeight="0.6945464458450413" LeftEdgeStrokePriority="608" RightEdgeStrokePriority="608" TopEdgeStrokePriority="617" BottomEdgeStrokePriority="618">
+								<XMLElement Self="di3i4i1i6" MarkupTag="XMLTag/Zelle" XMLContent="u700i11bci4">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Titel_Kategorie_medium_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Vorteil für den Patienten</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="u700i11bci5" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.556371566760331" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="1638493" RightInset="5.556371566760331" BottomEdgeStrokeWeight="0.34727322292252066" ClipContentToCell="false" LeftEdgeStrokePriority="603" RightEdgeStrokePriority="603" TopEdgeStrokePriority="610" BottomEdgeStrokePriority="619">
+								<XMLElement Self="di3i4i1i7" MarkupTag="XMLTag/Cell" XMLContent="u700i11bci5">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>1</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="u700i11bci6" Name="1:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.556371566760331" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="1638493" RightInset="5.556371566760331" BottomEdgeStrokeWeight="0.34727322292252066" ClipContentToCell="false" LeftEdgeStrokePriority="603" RightEdgeStrokePriority="603" TopEdgeStrokePriority="612" BottomEdgeStrokePriority="620">
+								<XMLElement Self="di3i4i1i8" MarkupTag="XMLTag/Cell" XMLContent="u700i11bci6">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>SARSTEDT Kunde:</Content>
+											<Br />
+											<Content>Wechsel von Pädiatrie S-Monovette</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Hochgestellt">
+											<Content>®</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content> (1,1/1,2 ml) auf S-Monovette</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Hochgestellt">
+											<Content>®</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content> 1,6 ml</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="u700i11bci7" Name="2:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.556371566760331" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="1638493" RightInset="5.556371566760331" BottomEdgeStrokeWeight="0.34727322292252066" ClipContentToCell="false" LeftEdgeStrokePriority="603" RightEdgeStrokePriority="603" TopEdgeStrokePriority="614" BottomEdgeStrokePriority="621">
+								<XMLElement Self="di3i4i1i9" MarkupTag="XMLTag/Cell" XMLContent="u700i11bci7">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_Liste_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Automatisierte Probenbearbeitung (kürzere TAT) im Krankenhauslabor und damit Wegfall des off-label Einsatzes von getrennten Probengefäß + Trägerröhrchen</Content>
+											<Br />
+											<Content>Wegfall vieler manueller Schritte im Krankenhauslabor: - das manuelle Aussortieren der pädiatrischen Proben im Probeneingang - das Platzieren der pädiatrischen Probengefäße in Trägerröhren vor Zentrifugation - das Platzieren der Probengefäße auf das Laborgerät</Content>
+											<Br />
+											<Content>Zeitgewinn für sinnvollere / andere Labortätigkeiten</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="u700i11bci8" Name="3:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.556371566760331" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="1638493" RightInset="5.556371566760331" BottomEdgeStrokeWeight="0.34727322292252066" ClipContentToCell="false" LeftEdgeStrokePriority="603" RightEdgeStrokePriority="603" TopEdgeStrokePriority="616" BottomEdgeStrokePriority="622">
+								<XMLElement Self="di3i4i1ia" MarkupTag="XMLTag/Cell" XMLContent="u700i11bci8">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_Liste_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Schnellerer Befund und schnellere Therapieentscheidung dank kürzerer TAT im Labor</Content>
+											<Br />
+											<Content>Gewohntes Aufzugsverhalten wie bei übrigen S-Monovetten im Vergleich zur  Pädiatrie S-Monovette</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Hochgestellt">
+											<Content>®</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="u700i11bci9" Name="4:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.556371566760331" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="1638493" RightInset="5.556371566760331" BottomEdgeStrokeWeight="0.34727322292252066" ClipContentToCell="false" LeftEdgeStrokePriority="603" RightEdgeStrokePriority="603" TopEdgeStrokePriority="618" BottomEdgeStrokePriority="623">
+								<XMLElement Self="di3i4i1ib" MarkupTag="XMLTag/Cell" XMLContent="u700i11bci9">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_Liste_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Schnellere Diagnose / Therapie</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="u700i11bcia" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="3.9375861496726756" TextLeftInset="7.875172299345351" TextBottomInset="3.9375861496726756" TextRightInset="5.556371566760331" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body_Abschlusszeile" AppliedCellStylePriority="3276989" LeftInset="7.875172299345351" TopInset="3.9375861496726756" RightInset="5.556371566760331" BottomInset="3.9375861496726756" TopEdgeStrokeWeight="0.34727322292252066" BottomEdgeStrokeWeight="0.34727322292252066" ClipContentToCell="false" LeftEdgeStrokePriority="603" RightEdgeStrokePriority="605" TopEdgeStrokePriority="619" BottomEdgeStrokePriority="605">
+								<XMLElement Self="di3i4i1ic" MarkupTag="XMLTag/Cell" XMLContent="u700i11bcia">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>2</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="u700i11bcib" Name="1:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="3.9375861496726756" TextLeftInset="7.875172299345351" TextBottomInset="3.9375861496726756" TextRightInset="5.556371566760331" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body_Abschlusszeile" AppliedCellStylePriority="3276989" LeftInset="7.875172299345351" TopInset="3.9375861496726756" RightInset="5.556371566760331" BottomInset="3.9375861496726756" TopEdgeStrokeWeight="0.34727322292252066" BottomEdgeStrokeWeight="0.34727322292252066" ClipContentToCell="false" LeftEdgeStrokePriority="605" RightEdgeStrokePriority="605" TopEdgeStrokePriority="620" BottomEdgeStrokePriority="605">
+								<XMLElement Self="di3i4i1id" MarkupTag="XMLTag/Cell" XMLContent="u700i11bcib">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Mitbewerber:</Content>
+											<Br />
+											<Content>kleinvolumige Vakuum-Röhrchen (low volume / low vacuum; 1 ml, 2 ml)</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="u700i11bcic" Name="2:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="3.9375861496726756" TextLeftInset="7.875172299345351" TextBottomInset="3.9375861496726756" TextRightInset="5.556371566760331" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body_Abschlusszeile" AppliedCellStylePriority="3276989" LeftInset="7.875172299345351" TopInset="3.9375861496726756" RightInset="5.556371566760331" BottomInset="3.9375861496726756" TopEdgeStrokeWeight="0.34727322292252066" BottomEdgeStrokeWeight="0.34727322292252066" ClipContentToCell="false" LeftEdgeStrokePriority="605" RightEdgeStrokePriority="605" TopEdgeStrokePriority="621" BottomEdgeStrokePriority="605">
+								<XMLElement Self="di3i4i1ie" MarkupTag="XMLTag/Cell" XMLContent="u700i11bcic">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_Liste_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Gilt für 1 ml low volume Vakuumröhrchen, wenn mehrere Analyte daraus bestimmt werden:</Content>
+											<Br />
+											<Content>Wegfall folgender Schritte im Krankenhauslabor: das Abpipettieren von Serum/ Plasma nach Zentrifugation und Überführen in (zuvor manuell etikettierte) Sekundärgefäße</Content>
+											<Br />
+											<Content>Minimierung der Vertauschungsgefahr von Probenmaterial durch Wegfall des Schrittes Überführen in Sekundärgefäß</Content>
+											<Br />
+											<Content>Zeitgewinn für sinnvollere / andere Labortätigkeiten</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="u700i11bcid" Name="3:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="3.9375861496726756" TextLeftInset="7.875172299345351" TextBottomInset="3.9375861496726756" TextRightInset="5.556371566760331" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body_Abschlusszeile" AppliedCellStylePriority="3276989" LeftInset="7.875172299345351" TopInset="3.9375861496726756" RightInset="5.556371566760331" BottomInset="3.9375861496726756" TopEdgeStrokeWeight="0.34727322292252066" BottomEdgeStrokeWeight="0.34727322292252066" ClipContentToCell="false" LeftEdgeStrokePriority="605" RightEdgeStrokePriority="605" TopEdgeStrokePriority="622" BottomEdgeStrokePriority="605">
+								<XMLElement Self="di3i4i1if" MarkupTag="XMLTag/Cell" XMLContent="u700i11bcid">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_Liste_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Schnelles Befüllen gewährleistet Low-volume (low-vacuum) Röhrchen befüllen sich aufgrund des niedrigen Unterdrucks (Vakuums) sehr langsam</Content>
+											<Br />
+											<Content>Schonende Entnahme mit der Aspirationstechnik gewährleistet</Content>
+											<Br />
+											<Content>Schnellerer Befund und schnellere Therapieentscheidung dank kürzerer TAT im Labor</Content>
+											<Br />
+											<Content>Einfachere Logistik dank längere Produkthaltbarkeit</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="u700i11bcie" Name="4:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="3.9375861496726756" TextLeftInset="7.875172299345351" TextBottomInset="3.9375861496726756" TextRightInset="5.556371566760331" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body_Abschlusszeile" AppliedCellStylePriority="3276989" LeftInset="7.875172299345351" TopInset="3.9375861496726756" RightInset="5.556371566760331" BottomInset="3.9375861496726756" TopEdgeStrokeWeight="0.34727322292252066" BottomEdgeStrokeWeight="0.34727322292252066" ClipContentToCell="false" LeftEdgeStrokePriority="605" RightEdgeStrokePriority="603" TopEdgeStrokePriority="623" BottomEdgeStrokePriority="605">
+								<XMLElement Self="di3i4i1i10" MarkupTag="XMLTag/Cell" XMLContent="u700i11bcie">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_Liste_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Schnellere Diagnose / Therapie</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="u700i11bcif" Name="0:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="3.9375861496726756" TextLeftInset="7.875172299345351" TextBottomInset="3.9375861496726756" TextRightInset="5.556371566760331" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body_Abschlusszeile" AppliedCellStylePriority="1638494" LeftInset="7.875172299345351" TopInset="3.9375861496726756" RightInset="5.556371566760331" BottomInset="3.9375861496726756" TopEdgeStrokeWeight="0.34727322292252066" BottomEdgeStrokeWeight="0.34727322292252066" ClipContentToCell="false" LeftEdgeStrokePriority="603" RightEdgeStrokePriority="605" TopEdgeStrokePriority="605" BottomEdgeStrokePriority="606">
+								<XMLElement Self="di3i4i1i11" MarkupTag="XMLTag/Cell" XMLContent="u700i11bcif">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>3</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="u700i11bci10" Name="1:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="3.9375861496726756" TextLeftInset="7.875172299345351" TextBottomInset="3.9375861496726756" TextRightInset="5.556371566760331" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body_Abschlusszeile" AppliedCellStylePriority="1638494" LeftInset="7.875172299345351" TopInset="3.9375861496726756" RightInset="5.556371566760331" BottomInset="3.9375861496726756" TopEdgeStrokeWeight="0.34727322292252066" BottomEdgeStrokeWeight="0.34727322292252066" ClipContentToCell="false" LeftEdgeStrokePriority="605" RightEdgeStrokePriority="605" TopEdgeStrokePriority="605" BottomEdgeStrokePriority="606">
+								<XMLElement Self="di3i4i1i12" MarkupTag="XMLTag/Cell" XMLContent="u700i11bci10">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Mitbewerber:</Content>
+											<Br />
+											<Content>Abnahme mit Spritze und Überführen in typisches großvolumiges Vakuumröhrchen</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="u700i11bci11" Name="2:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="3.9375861496726756" TextLeftInset="7.875172299345351" TextBottomInset="3.9375861496726756" TextRightInset="5.556371566760331" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body_Abschlusszeile" AppliedCellStylePriority="1638494" LeftInset="7.875172299345351" TopInset="3.9375861496726756" RightInset="5.556371566760331" BottomInset="3.9375861496726756" TopEdgeStrokeWeight="0.34727322292252066" BottomEdgeStrokeWeight="0.34727322292252066" ClipContentToCell="false" LeftEdgeStrokePriority="605" RightEdgeStrokePriority="605" TopEdgeStrokePriority="605" BottomEdgeStrokePriority="606">
+								<XMLElement Self="di3i4i1i13" MarkupTag="XMLTag/Cell" XMLContent="u700i11bci11">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_Liste_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Wegfall möglicher manueller Schritten im Krankenhauslabor bei stark unterfüllten Proben:  - das Abpipettieren von Serum/ Plasma nach Zentrifugation und Überführen in (zuvor manuell etikettierte) Sekundärgefäße  - das Platzieren der Probengefäße auf das Laborgerät </Content>
+											<Br />
+											<Content>Vermeidung der Vertauschungsgefahr von Probenmaterial durch Wegfall des Schrittes Überführen in Sekundärgefäß</Content>
+											<Br />
+											<Content>Wegfall schlechter Probenqualität aufgrund von Probentransfer von Spritze in Vakuum-Röhrchen:  - Hämolyse - Kreuzkontamination (Verteilen des Blutes aus der Spritze auf Röhrchen verschiedener Präparierungen kann zu Übertragung von Präparierungsbestandteilen führen.)</Content>
+											<Br />
+											<Content>Wegfall stark unterfüllter Probengefäße, und in Folge auch keine verfälschten Laborergebnisse von hierüber durch Überkonzentration der Präparierung</Content>
+											<Br />
+											<Content>Zeitgewinn für sinnvollere / andere Labortätigkeiten</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="u700i11bci12" Name="3:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="3.9375861496726756" TextLeftInset="7.875172299345351" TextBottomInset="3.9375861496726756" TextRightInset="5.556371566760331" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body_Abschlusszeile" AppliedCellStylePriority="1638494" LeftInset="7.875172299345351" TopInset="3.9375861496726756" RightInset="5.556371566760331" BottomInset="3.9375861496726756" TopEdgeStrokeWeight="0.34727322292252066" BottomEdgeStrokeWeight="0.34727322292252066" ClipContentToCell="false" LeftEdgeStrokePriority="605" RightEdgeStrokePriority="605" TopEdgeStrokePriority="605" BottomEdgeStrokePriority="606">
+								<XMLElement Self="di3i4i1i14" MarkupTag="XMLTag/Cell" XMLContent="u700i11bci12">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_Liste_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Risiko von Kreuzkontamination entfällt vollständig aufgrund Wegfall des Verteilen von Blut aus der Spritze auf Vakuumröhrchen verschiedener Präparierungen</Content>
+											<Br />
+											<Content>Sicher und hygienischer durch  - geschlossene Blutentnahme</Content>
+											<Br />
+											<Content>Sicherer und hygienischer durch - Wegfall des Transferschrittes - Überführen der Blutprobe von der Spritze direkt in das Vakuum-Röhrchen</Content>
+											<Br />
+											<Content>Sicherer und hygienischer durch  - Wegfall des Transferschrittes  - Überführen der Blutprobe mit einem Transfer-Adapter (BD REF 36481000; GBO REF 450225) und  - Wegfall der Kosten für Transfer-Adapter</Content>
+											<Br />
+											<Content>Schnellerer Befund und schnellere Therapieentscheidung dank kürzerer TAT im Labor</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="u700i11bci13" Name="4:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="3.9375861496726756" TextLeftInset="7.875172299345351" TextBottomInset="3.9375861496726756" TextRightInset="5.556371566760331" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body_Abschlusszeile" AppliedCellStylePriority="1638494" LeftInset="7.875172299345351" TopInset="3.9375861496726756" RightInset="5.556371566760331" BottomInset="3.9375861496726756" TopEdgeStrokeWeight="0.34727322292252066" BottomEdgeStrokeWeight="0.34727322292252066" ClipContentToCell="false" LeftEdgeStrokePriority="605" RightEdgeStrokePriority="603" TopEdgeStrokePriority="605" BottomEdgeStrokePriority="606">
+								<XMLElement Self="di3i4i1i15" MarkupTag="XMLTag/Cell" XMLContent="u700i11bci13">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_Liste_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Größere Patientensicherheit  aufgrund sicherer Laborergebnisse (geschlossene Blutentnahme / kein Probentransfer) </Content>
+											<Br />
+											<Content>Schnellere Diagnose / Therapie</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="u700i11bci14" Name="0:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.556371566760331" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body_Abschlusszeile" AppliedCellStylePriority="1638494" RightInset="5.556371566760331" TopEdgeStrokeWeight="0.34727322292252066" BottomEdgeStrokeWeight="0.6945464458450413" ClipContentToCell="false" LeftEdgeStrokePriority="603" RightEdgeStrokePriority="605" TopEdgeStrokePriority="606" BottomEdgeStrokePriority="624">
+								<XMLElement Self="di3i4i1i16" MarkupTag="XMLTag/Cell" XMLContent="u700i11bci14">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>4</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="u700i11bci15" Name="1:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.556371566760331" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body_Abschlusszeile" AppliedCellStylePriority="1638494" RightInset="5.556371566760331" TopEdgeStrokeWeight="0.34727322292252066" BottomEdgeStrokeWeight="0.6945464458450413" ClipContentToCell="false" LeftEdgeStrokePriority="605" RightEdgeStrokePriority="605" TopEdgeStrokePriority="606" BottomEdgeStrokePriority="625">
+								<XMLElement Self="di3i4i1i17" MarkupTag="XMLTag/Cell" XMLContent="u700i11bci15">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>SARSTEDT Kunde / Mitbewerber:</Content>
+											<Br />
+											<Content>- Abnahme mit Spritze und Überführen in Micro-Probengefäß</Content>
+											<Br />
+											<Content>- Wechsel / Ergänzung von Micro-Probengefäß auf S-Monovette</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleSuperscript">
+											<Content>®</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content> 1,6 ml</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="u700i11bci16" Name="2:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.556371566760331" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body_Abschlusszeile" AppliedCellStylePriority="1638494" RightInset="5.556371566760331" TopEdgeStrokeWeight="0.34727322292252066" BottomEdgeStrokeWeight="0.6945464458450413" ClipContentToCell="false" LeftEdgeStrokePriority="605" RightEdgeStrokePriority="605" TopEdgeStrokePriority="606" BottomEdgeStrokePriority="626">
+								<XMLElement Self="di3i4i1i18" MarkupTag="XMLTag/Cell" XMLContent="u700i11bci16">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_Liste_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Wegfall schlechter Probenqualität aufgrund von Probentransfer von Spritze in Micro-Probengefäße:  - Kreuzkontamination (Verteilen des Blutes aus der Spritze auf Röhrchen verschiedener Präparierungen kann zu Übertragung von Präparierungsbestandteilen führen.)</Content>
+											<Br />
+											<Content>Wegfall vieler manueller Schritte im Krankenhauslabor:  - das manuelle Aussortieren der pädiatrischen Proben im Probeneingang  - das Platzieren der pädiatrischen Probengefäße in Trägerröhren vor Zentrifugation - das Abpipettieren von Serum/ Plasma nach Zentrifugation und Überführen in (zuvor manuell etikettierte) Sekundärgefäße  - das Platzieren der Probengefäße auf das Laborgerät</Content>
+											<Br />
+											<Content>Vermeidung der Vertauschungsgefahr von Probenmaterial durch Wegfall de Schrittes Überführen in Sekundärgefäß</Content>
+											<Br />
+											<Content>Zeitgewinn für sinnvollere / andere Labortätigkeiten</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="u700i11bci17" Name="3:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.556371566760331" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body_Abschlusszeile" AppliedCellStylePriority="1638494" RightInset="5.556371566760331" TopEdgeStrokeWeight="0.34727322292252066" BottomEdgeStrokeWeight="0.6945464458450413" ClipContentToCell="false" LeftEdgeStrokePriority="605" RightEdgeStrokePriority="605" TopEdgeStrokePriority="606" BottomEdgeStrokePriority="627">
+								<XMLElement Self="di3i4i1i19" MarkupTag="XMLTag/Cell" XMLContent="u700i11bci17">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_Liste_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Risiko von Kreuzkontamination entfällt vollständig aufgrund Wegfall des Verteilen von Blut aus der Spritze auf Micro-Probengefäß verschiedener Präparierungen</Content>
+											<Br />
+											<Content>Sicher und hygienischer durch  - geschlossene Blutentnahme - Wegfall des Transferschrittes  - Überführen der Blutprobe von der Spritze in das Micro-Probengefäß</Content>
+											<Br />
+											<Content>Gewohntes Aufzugsverhalten wie bei übrigen S-Monovetten, wenn der Anwender S-Monovetten einsetzt</Content>
+											<Br />
+											<Content>Schnellerer Befund und schnellere Therapieentscheidung dank kürzerer TAT im Labor</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="u700i11bci18" Name="4:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.556371566760331" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body_Abschlusszeile" AppliedCellStylePriority="1638494" RightInset="5.556371566760331" TopEdgeStrokeWeight="0.34727322292252066" BottomEdgeStrokeWeight="0.6945464458450413" ClipContentToCell="false" LeftEdgeStrokePriority="605" RightEdgeStrokePriority="603" TopEdgeStrokePriority="606" BottomEdgeStrokePriority="628">
+								<XMLElement Self="di3i4i1i1a" MarkupTag="XMLTag/Cell" XMLContent="u700i11bci18">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_Liste_regular_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Größere Patientensicherheit  aufgrund sicherer Laborergebnisse (geschlossene Blutentnahme / kein Probentransfer) </Content>
+											<Br />
+											<Content>Schnellere Diagnose / Therapie</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+						</Table>
+					</XMLElement>
+				</CharacterStyleRange>
+			</ParagraphStyleRange>
+		</XMLElement>
+	</Story>
+</idPkg:Story>

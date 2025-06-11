@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.3">
+	<Story Self="ufb7" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/PI Unterpunkte_Fließtext">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Ein identisches Gefäß Serum CAT mit Gel hätte ein Nennvolumen von nur 0,9 ml anstelle der bisherigen 1,6 ml. Die Serumausbeute nach Zentrifugation (Überstand) beträgt dann nur etwa 400 µl, anstelle der bisherigen 800 µl, was einer Plasmasäule von etwa 4 mm entspricht.  Da alle Analysengeräte der Hersteller einen Sicherheitsabstand von 4 mm zur Trennschicht für die Probennadel einhalten, steht nach der Zentrifugation nicht mehr genügend Material für die Analyse zur Verfügung.</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

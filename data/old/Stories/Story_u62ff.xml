@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.2">
+	<Story Self="u62ff" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Text Pis_12pt">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Die Änderung ist Folge von erhöhter Nachfrage nach DNA-/DNase- und RNase-freien Kryokonservierungsgefäßen und zur Verhinderung von Kundenabwanderung. Zell- und Gewebeproben dürfen bei der „vitalen“ Konservierung in CryoPure Röhren keinen</Content>
+				<Br />
+				<Content>zusätzlichen Risiken hinsichtlich Kontaminationen mit störenden Stoffen ausgesetzt werden. Durch erweiterte Testung und erfolgreiche Zertifizierung bei gleichen Produktionsbedingungen können wir unseren Kunden garantieren, weitere Störfaktoren nachweislich minimiert zu haben.</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

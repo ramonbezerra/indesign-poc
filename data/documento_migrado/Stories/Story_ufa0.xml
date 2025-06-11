@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.3">
+	<Story Self="ufa0" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/PI Unterpunkte_Kapitel_14pt" HyphenationZone="49.976346537875145" RuleAboveLineWeight="1.3882318482743097" RuleBelowLineWeight="0.9717622937920167" RuleBelowOffset="11.80543619004925" SplitColumnInsideGutter="8.329391089645858" ParagraphBorderTopLeftCornerRadius="16.658782179291716" ParagraphBorderTopRightCornerRadius="16.658782179291716" ParagraphBorderBottomLeftCornerRadius="16.658782179291716" ParagraphBorderBottomRightCornerRadius="16.658782179291716" ParagraphShadingTopLeftCornerRadius="16.658782179291716" ParagraphShadingTopRightCornerRadius="16.658782179291716" ParagraphShadingBottomLeftCornerRadius="16.658782179291716" ParagraphShadingBottomRightCornerRadius="16.658782179291716" ParagraphBorderTopLineWeight="1.3882318482743097" ParagraphBorderBottomLineWeight="1.3882318482743097" ParagraphBorderLeftLineWeight="1.3882318482743097" ParagraphBorderRightLineWeight="1.3882318482743097">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="19.435245875840337" StrokeWeight="1.3882318482743097" MiterLimit="5.552927393097239" RubyFontSize="-1.3882318482743097" KentenFontSize="-1.3882318482743097">
+				<Content>7.1.2 Warum wird es keine S-Monovette</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Hochgestellt" PointSize="19.435245875840337" StrokeWeight="1.3882318482743097" MiterLimit="5.552927393097239" RubyFontSize="-1.3882318482743097" KentenFontSize="-1.3882318482743097">
+				<Content>®</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="19.435245875840337" StrokeWeight="1.3882318482743097" MiterLimit="5.552927393097239" RubyFontSize="-1.3882318482743097" KentenFontSize="-1.3882318482743097">
+				<Content> Serum CAT Gel geben?</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

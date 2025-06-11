@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.3">
+	<Story Self="uc97" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/PI Unterpunkte_Fließtext">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Die Hauptmitbewerber im Bereich Vakuumsysteme sind </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
+				<Content>Becton Dickinson (BD), Greiner Bio One (GBO), Improve, Kima</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>. Der Mitbewerber im Bereich Aspirationssystem ist </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
+				<Content>KABE Labortechnik</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>. Es gibt regional unterschiedlich noch kleine lokale Firmen sowie eine große Anzahl von Herstellern aus China. BD und GBO sind weltweit die beiden stärksten Mitbewerber. Improve ist in Süd- und Osteuropa sowie Asien aktiv. Kima ist in Süd-, Osteuropa und Mexiko aktiv. KABE ist in Deutschland und einigen europäischen Ländern wie z.B. Portugal und Osteuropa tätig.</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

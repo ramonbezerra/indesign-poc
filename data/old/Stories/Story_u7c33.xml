@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.2">
+	<Story Self="u7c33" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Text_Pis">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Table Self="u7c33i7c48" HeaderRowCount="0" FooterRowCount="0" TextTopInset="4" TextLeftInset="4" TextBottomInset="4" TextRightInset="4" ClipContentToTextCell="false" BodyRowCount="9" ColumnCount="8" AppliedTableStyle="TableStyle/$ID/[Basic Table]" TableDirection="LeftToRightDirection">
+					<Row Self="u7c33i7c48Row0" Name="0" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" SingleRowHeight="22.67716535433071" MinimumHeight="22.67716535433071" />
+					<Row Self="u7c33i7c48Row1" Name="1" TextTopInset="0" TextLeftInset="0" TextBottomInset="0" TextRightInset="0" ClipContentToTextCell="false" SingleRowHeight="9.5318603515625" MinimumHeight="5.669291338582678" />
+					<Row Self="u7c33i7c48Row2" Name="2" TextTopInset="0.5669291338582677" TextLeftInset="5.669291338582678" TextBottomInset="0.5669291338582677" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleRowHeight="14.173228346456694" MinimumHeight="14.173228346456694" AutoGrow="true" />
+					<Row Self="u7c33i7c48Row3" Name="3" TextTopInset="0.5669291338582677" TextLeftInset="5.669291338582678" TextBottomInset="0.5669291338582677" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleRowHeight="14.173228346456694" MinimumHeight="14.173228346456694" AutoGrow="true" />
+					<Row Self="u7c33i7c48Row4" Name="4" TextTopInset="0.5669291338582677" TextLeftInset="5.669291338582678" TextBottomInset="0.5669291338582677" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleRowHeight="14.173228346456694" MinimumHeight="14.173228346456694" AutoGrow="true" />
+					<Row Self="u7c33i7c48Row5" Name="5" TextTopInset="0.5669291338582677" TextLeftInset="5.669291338582678" TextBottomInset="0.5669291338582677" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleRowHeight="14.173228346456694" MinimumHeight="14.173228346456694" AutoGrow="true" />
+					<Row Self="u7c33i7c48Row6" Name="6" TextTopInset="0.5669291338582677" TextLeftInset="5.669291338582678" TextBottomInset="0.5669291338582677" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleRowHeight="14.173228346456694" MinimumHeight="14.173228346456694" AutoGrow="true" />
+					<Row Self="u7c33i7c48Row7" Name="7" TextTopInset="0.5669291338582677" TextLeftInset="5.669291338582678" TextBottomInset="0.5669291338582677" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleRowHeight="14.173228346456694" MinimumHeight="14.173228346456694" AutoGrow="true" />
+					<Row Self="u7c33i7c48Row8" Name="8" TextTopInset="0.5669291338582677" TextLeftInset="5.669291338582678" TextBottomInset="0.5669291338582677" TextRightInset="5.669291338582678" ClipContentToTextCell="false" SingleRowHeight="14.173228346456694" MinimumHeight="14.173228346456694" AutoGrow="true" />
+					<Column Self="u7c33i7c48Column0" Name="0" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" SingleColumnWidth="50.87205973948073" />
+					<Column Self="u7c33i7c48Column1" Name="1" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" SingleColumnWidth="53.75983002429871" />
+					<Column Self="u7c33i7c48Column2" Name="2" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" SingleColumnWidth="102.7559055110473" />
+					<Column Self="u7c33i7c48Column3" Name="3" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" SingleColumnWidth="66.61417322834646" />
+					<Column Self="u7c33i7c48Column4" Name="4" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" SingleColumnWidth="58.81889763855901" />
+					<Column Self="u7c33i7c48Column5" Name="5" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" SingleColumnWidth="85.46456692760648" />
+					<Column Self="u7c33i7c48Column6" Name="6" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" SingleColumnWidth="48.18897637795274" />
+					<Column Self="u7c33i7c48Column7" Name="7" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" SingleColumnWidth="65.79724409372452" />
+					<Cell Self="u7c33i7c48i2" Name="0:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="2" LeftInset="1.4173228346456694" TopInset="1.4173228346456694" RightInset="1.4173228346456694" BottomInset="1.4173228346456694" FillColor="Color/C=5 M=1 Y=0 K=20" FillTint="30" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0" LeftEdgeStrokeColor="Color/Paper" TopEdgeStrokeColor="Color/Paper" RightEdgeStrokeColor="Color/Paper" VerticalJustification="CenterAlign" TopEdgeStrokeTint="100" ClipContentToCell="false" LeftEdgeStrokePriority="41" RightEdgeStrokePriority="41" TopEdgeStrokePriority="1257" BottomEdgeStrokePriority="1">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenheader rot 6pt">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Bestell-Nr.</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48ib" Name="1:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="643" LeftInset="1.4173228346456694" TopInset="1.4173228346456694" RightInset="1.4173228346456694" BottomInset="1.4173228346456694" FillColor="Color/C=5 M=1 Y=0 K=20" FillTint="30" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0" LeftEdgeStrokeColor="Color/Paper" TopEdgeStrokeColor="Color/Paper" RightEdgeStrokeColor="Color/Paper" VerticalJustification="CenterAlign" TopEdgeStrokeTint="100" ClipContentToCell="false" LeftEdgeStrokePriority="41" RightEdgeStrokePriority="41" TopEdgeStrokePriority="1257" BottomEdgeStrokePriority="1">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenheader rot 6pt">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Farbe</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i90" Name="2:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="643" LeftInset="1.4173228346456694" TopInset="1.4173228346456694" RightInset="1.4173228346456694" BottomInset="1.4173228346456694" FillColor="Color/C=5 M=1 Y=0 K=20" FillTint="30" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0" LeftEdgeStrokeColor="Color/Paper" TopEdgeStrokeColor="Color/Paper" RightEdgeStrokeColor="Color/Paper" VerticalJustification="CenterAlign" TopEdgeStrokeTint="100" ClipContentToCell="false" LeftEdgeStrokePriority="41" RightEdgeStrokePriority="41" TopEdgeStrokePriority="1257" BottomEdgeStrokePriority="1">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenheader rot 6pt">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Gewindetyp</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48ia4" Name="3:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="7642" LeftInset="1.4173228346456694" TopInset="1.4173228346456694" RightInset="1.4173228346456694" BottomInset="1.4173228346456694" FillColor="Color/C=5 M=1 Y=0 K=20" FillTint="30" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0" LeftEdgeStrokeColor="Color/Paper" TopEdgeStrokeColor="Color/Paper" RightEdgeStrokeColor="Color/Paper" VerticalJustification="CenterAlign" TopEdgeStrokeTint="100" ClipContentToCell="false" LeftEdgeStrokePriority="41" RightEdgeStrokePriority="41" TopEdgeStrokePriority="1257" BottomEdgeStrokePriority="1">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenheader rot 6pt">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Material</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i57" Name="4:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="15286" LeftInset="1.4173228346456694" TopInset="1.4173228346456694" RightInset="1.4173228346456694" BottomInset="1.4173228346456694" FillColor="Color/C=5 M=1 Y=0 K=20" FillTint="30" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0" LeftEdgeStrokeColor="Color/Paper" TopEdgeStrokeColor="Color/Paper" RightEdgeStrokeColor="Color/Paper" VerticalJustification="CenterAlign" TopEdgeStrokeTint="100" ClipContentToCell="false" LeftEdgeStrokePriority="41" RightEdgeStrokePriority="41" TopEdgeStrokePriority="1257" BottomEdgeStrokePriority="1">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenheader rot 6pt">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Haltbarkeit*  [Monaten]</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i56" Name="5:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="22930" LeftInset="1.4173228346456694" TopInset="1.4173228346456694" RightInset="1.4173228346456694" BottomInset="1.4173228346456694" FillColor="Color/C=5 M=1 Y=0 K=20" FillTint="30" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0" LeftEdgeStrokeColor="Color/Paper" TopEdgeStrokeColor="Color/Paper" RightEdgeStrokeColor="Color/Paper" VerticalJustification="CenterAlign" TopEdgeStrokeTint="100" ClipContentToCell="false" LeftEdgeStrokePriority="41" RightEdgeStrokePriority="41" TopEdgeStrokePriority="1257" BottomEdgeStrokePriority="1">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenheader rot 6pt">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Verpackung</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i55" Name="6:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="30574" LeftInset="1.4173228346456694" TopInset="1.4173228346456694" RightInset="1.4173228346456694" BottomInset="1.4173228346456694" FillColor="Color/C=5 M=1 Y=0 K=20" FillTint="30" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0" LeftEdgeStrokeColor="Color/Paper" TopEdgeStrokeColor="Color/Paper" RightEdgeStrokeColor="Color/Paper" VerticalJustification="CenterAlign" TopEdgeStrokeTint="100" ClipContentToCell="false" LeftEdgeStrokePriority="41" RightEdgeStrokePriority="41" TopEdgeStrokePriority="1257" BottomEdgeStrokePriority="1">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenheader rot 6pt">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Empf.  VE**</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i54" Name="7:0" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="38218" LeftInset="1.4173228346456694" TopInset="1.4173228346456694" RightInset="1.4173228346456694" BottomInset="1.4173228346456694" FillColor="Color/C=5 M=1 Y=0 K=20" FillTint="30" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0" LeftEdgeStrokeColor="Color/Paper" TopEdgeStrokeColor="Color/Paper" RightEdgeStrokeColor="Color/Paper" VerticalJustification="CenterAlign" TopEdgeStrokeTint="100" ClipContentToCell="false" LeftEdgeStrokePriority="41" RightEdgeStrokePriority="41" TopEdgeStrokePriority="1257" BottomEdgeStrokePriority="1">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabellenheader rot 6pt">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Verfügbar seit</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i14" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0" TextLeftInset="0" TextBottomInset="0" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="0" LeftInset="0" TopInset="0" RightInset="0" BottomInset="0" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0" BottomEdgeStrokeWeight="0.5" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="1" RightEdgeStrokePriority="1" TopEdgeStrokePriority="1" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Text_Pis">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" />
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i1d" Name="1:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0" TextLeftInset="0" TextBottomInset="0" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="635" LeftInset="0" TopInset="0" RightInset="0" BottomInset="0" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0" BottomEdgeStrokeWeight="0.5" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="1" RightEdgeStrokePriority="1" TopEdgeStrokePriority="1" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Text_Pis">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" />
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48id8" Name="2:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0" TextLeftInset="0" TextBottomInset="0" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="635" LeftInset="0" TopInset="0" RightInset="0" BottomInset="0" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0" BottomEdgeStrokeWeight="0.5" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="1" RightEdgeStrokePriority="1" TopEdgeStrokePriority="1" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Text_Pis">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FillColor="Color/C=5 M=100 Y=100 K=5" FontStyle="65 Medium" FillTint="100">
+								<Properties>
+									<AppliedFont type="string">Helvetica Neue LT W1G</AppliedFont>
+								</Properties>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i94" Name="3:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0" TextLeftInset="0" TextBottomInset="0" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="22" LeftInset="0" TopInset="0" RightInset="0" BottomInset="0" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0" BottomEdgeStrokeWeight="0.5" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="1" RightEdgeStrokePriority="1" TopEdgeStrokePriority="1" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Text_Pis">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" />
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i33" Name="4:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0" TextLeftInset="0" TextBottomInset="0" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="22" LeftInset="0" TopInset="0" RightInset="0" BottomInset="0" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0" BottomEdgeStrokeWeight="0.5" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="1" RightEdgeStrokePriority="1" TopEdgeStrokePriority="1" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Text_Pis">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" />
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i32" Name="5:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0" TextLeftInset="0" TextBottomInset="0" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="22" LeftInset="0" TopInset="0" RightInset="0" BottomInset="0" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0" BottomEdgeStrokeWeight="0.5" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="1" RightEdgeStrokePriority="1" TopEdgeStrokePriority="1" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Text_Pis">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" />
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i31" Name="6:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0" TextLeftInset="0" TextBottomInset="0" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="22" LeftInset="0" TopInset="0" RightInset="0" BottomInset="0" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0" BottomEdgeStrokeWeight="0.5" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="1" RightEdgeStrokePriority="1" TopEdgeStrokePriority="1" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Text_Pis">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" />
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i30" Name="7:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0" TextLeftInset="0" TextBottomInset="0" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="22" LeftInset="0" TopInset="0" RightInset="0" BottomInset="0" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0" BottomEdgeStrokeWeight="0.5" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="1" RightEdgeStrokePriority="1" TopEdgeStrokePriority="1" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Text_Pis">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" />
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48ib2" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="5.669291338582678" TextBottomInset="0.5669291338582677" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="2" LeftInset="5.669291338582678" TopInset="0.5669291338582677" RightInset="5.669291338582678" BottomInset="0.5669291338582677" FillColor="Swatch/None" FillTint="30" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein links">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>65.386</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48ic9" Name="1:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0" TextLeftInset="0" TextBottomInset="0" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="8974" LeftInset="0" TopInset="0" RightInset="0" BottomInset="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<TextFrame Self="u8b81" ParentStory="u8b84" PreviousTextFrame="n" NextTextFrame="n" ContentType="TextType" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" FillColor="Color/Paper" StrokeWeight="0.3" StrokeColor="Color/Black" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[None]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 548.2667415108266 -2209.3691037155513">
+									<Properties>
+										<PathGeometry>
+											<GeometryPathType PathOpen="false">
+												<PathPointArray>
+													<PathPointType Anchor="-542.4048274483266 2209.2191037155512" LeftDirection="-545.5594304593162 2209.2191037155512" RightDirection="-539.250224437337 2209.2191037155512" />
+													<PathPointType Anchor="-536.6929133858266 2203.5071896530512" LeftDirection="-536.6929133858266 2206.6617926640406" RightDirection="-536.6929133858266 2200.352586642062" />
+													<PathPointType Anchor="-542.4048274483266 2197.7952755905512" LeftDirection="-539.250224437337 2197.7952755905512" RightDirection="-545.5594304593162 2197.7952755905512" />
+													<PathPointType Anchor="-548.1167415108266 2203.5071896530512" LeftDirection="-548.1167415108266 2200.352586642062" RightDirection="-548.1167415108266 2206.6617926640406" />
+												</PathPointArray>
+											</GeometryPathType>
+										</PathGeometry>
+									</Properties>
+									<TextFramePreference TextColumnCount="1" TextColumnFixedWidth="11.123828125000045" TextColumnMaxWidth="0" ColumnRuleOverride="false" ColumnRuleOffset="0" ColumnRuleTopInset="0" ColumnRuleInsetChainOverride="true" ColumnRuleBottomInset="0" ColumnRuleStrokeWidth="0" ColumnRuleStrokeColor="n" ColumnRuleStrokeType="StrokeStyle/$ID/Solid" ColumnRuleStrokeTint="100" ColumnRuleOverprintOverride="false">
+										<Properties>
+											<InsetSpacing type="unit">0</InsetSpacing>
+										</Properties>
+									</TextFramePreference>
+									<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+										<Properties>
+											<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+										</Properties>
+									</TextWrapPreference>
+									<ObjectExportOption EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
+										<Properties>
+											<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+											<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+										</Properties>
+									</ObjectExportOption>
+								</TextFrame>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i7e" Name="2:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="1265" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Außengewinde</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48ib0" Name="3:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="1267" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>PS</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48icc" Name="4:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="1267" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Rote Hervorhebung">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48icd" Name="5:2" RowSpan="7" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="1267" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>100/Beutel</Content>
+								<Br />
+								<Content>100/Innenkarton</Content>
+								<Br />
+								<Content>3.000/Karton</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48icf" Name="6:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="1269" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>IK</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i1c" Name="7:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="551823" LeftInset="1.4173228346456694" TopInset="1.4173228346456694" RightInset="1.4173228346456694" BottomInset="1.4173228346456694" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>08 / 2005</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48ib7" Name="0:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="5.669291338582678" TextBottomInset="0.5669291338582677" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="1273" LeftInset="5.669291338582678" TopInset="0.5669291338582677" RightInset="5.669291338582678" BottomInset="0.5669291338582677" FillColor="Swatch/None" FillTint="30" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein links">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>65.386.002</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48if7" Name="1:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0" TextLeftInset="0" TextBottomInset="0" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="41672" LeftInset="0" TopInset="0" RightInset="0" BottomInset="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<TextFrame Self="u8b69" ParentStory="u8b6c" PreviousTextFrame="n" NextTextFrame="n" ContentType="TextType" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" FillColor="Color/C=5 M=100 Y=100 K=5" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[None]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 548.1167415108266 -2209.2191037155512">
+									<Properties>
+										<PathGeometry>
+											<GeometryPathType PathOpen="false">
+												<PathPointArray>
+													<PathPointType Anchor="-542.4048274483266 2209.2191037155512" LeftDirection="-545.5594304593162 2209.2191037155512" RightDirection="-539.250224437337 2209.2191037155512" />
+													<PathPointType Anchor="-536.6929133858266 2203.5071896530512" LeftDirection="-536.6929133858266 2206.6617926640406" RightDirection="-536.6929133858266 2200.352586642062" />
+													<PathPointType Anchor="-542.4048274483266 2197.7952755905512" LeftDirection="-539.250224437337 2197.7952755905512" RightDirection="-545.5594304593162 2197.7952755905512" />
+													<PathPointType Anchor="-548.1167415108266 2203.5071896530512" LeftDirection="-548.1167415108266 2200.352586642062" RightDirection="-548.1167415108266 2206.6617926640406" />
+												</PathPointArray>
+											</GeometryPathType>
+										</PathGeometry>
+									</Properties>
+									<TextFramePreference TextColumnCount="1" TextColumnFixedWidth="11.423828125" TextColumnMaxWidth="0" ColumnRuleOverride="false" ColumnRuleOffset="0" ColumnRuleTopInset="0" ColumnRuleInsetChainOverride="true" ColumnRuleBottomInset="0" ColumnRuleStrokeWidth="0" ColumnRuleStrokeColor="n" ColumnRuleStrokeType="StrokeStyle/$ID/Solid" ColumnRuleStrokeTint="100" ColumnRuleOverprintOverride="false">
+										<Properties>
+											<InsetSpacing type="unit">0</InsetSpacing>
+										</Properties>
+									</TextFramePreference>
+									<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+										<Properties>
+											<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+										</Properties>
+									</TextWrapPreference>
+									<ObjectExportOption EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
+										<Properties>
+											<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+											<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+										</Properties>
+									</ObjectExportOption>
+								</TextFrame>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48if8" Name="2:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="2536" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Außengewinde</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48if9" Name="3:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="2538" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>PS</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48iae" Name="4:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="1269" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Rote Hervorhebung">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48ie8" Name="6:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="2540" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>IK</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48ie7" Name="7:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="551825" LeftInset="1.4173228346456694" TopInset="1.4173228346456694" RightInset="1.4173228346456694" BottomInset="1.4173228346456694" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>08 / 2005</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48ie6" Name="0:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="5.669291338582678" TextBottomInset="0.5669291338582677" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="3814" LeftInset="5.669291338582678" TopInset="0.5669291338582677" RightInset="5.669291338582678" BottomInset="0.5669291338582677" FillColor="Swatch/None" FillTint="30" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein links">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>65.386.004</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48id6" Name="1:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0" TextLeftInset="0" TextBottomInset="0" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="107067" LeftInset="0" TopInset="0" RightInset="0" BottomInset="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<TextFrame Self="u8b51" ParentStory="u8b54" PreviousTextFrame="n" NextTextFrame="n" ContentType="TextType" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" FillColor="Color/C=0 M=6 Y=67 K=0" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[None]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 548.1167415108266 -2209.2191037155512">
+									<Properties>
+										<PathGeometry>
+											<GeometryPathType PathOpen="false">
+												<PathPointArray>
+													<PathPointType Anchor="-542.4048274483266 2209.2191037155512" LeftDirection="-545.5594304593162 2209.2191037155512" RightDirection="-539.250224437337 2209.2191037155512" />
+													<PathPointType Anchor="-536.6929133858266 2203.5071896530512" LeftDirection="-536.6929133858266 2206.6617926640406" RightDirection="-536.6929133858266 2200.352586642062" />
+													<PathPointType Anchor="-542.4048274483266 2197.7952755905512" LeftDirection="-539.250224437337 2197.7952755905512" RightDirection="-545.5594304593162 2197.7952755905512" />
+													<PathPointType Anchor="-548.1167415108266 2203.5071896530512" LeftDirection="-548.1167415108266 2200.352586642062" RightDirection="-548.1167415108266 2206.6617926640406" />
+												</PathPointArray>
+											</GeometryPathType>
+										</PathGeometry>
+									</Properties>
+									<TextFramePreference TextColumnCount="1" TextColumnFixedWidth="11.423828125" TextColumnMaxWidth="0" ColumnRuleOverride="false" ColumnRuleOffset="0" ColumnRuleTopInset="0" ColumnRuleInsetChainOverride="true" ColumnRuleBottomInset="0" ColumnRuleStrokeWidth="0" ColumnRuleStrokeColor="n" ColumnRuleStrokeType="StrokeStyle/$ID/Solid" ColumnRuleStrokeTint="100" ColumnRuleOverprintOverride="false">
+										<Properties>
+											<InsetSpacing type="unit">0</InsetSpacing>
+										</Properties>
+									</TextFramePreference>
+									<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+										<Properties>
+											<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+										</Properties>
+									</TextWrapPreference>
+									<ObjectExportOption EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
+										<Properties>
+											<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+											<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+										</Properties>
+									</ObjectExportOption>
+								</TextFrame>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i20" Name="2:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="5077" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Außengewinde</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i21" Name="3:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="5079" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>PS</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48id2" Name="4:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="1270" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Rote Hervorhebung">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i17" Name="6:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="5081" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>IK</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i5" Name="7:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="551826" LeftInset="1.4173228346456694" TopInset="1.4173228346456694" RightInset="1.4173228346456694" BottomInset="1.4173228346456694" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>08 / 2005</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i44" Name="0:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="5.669291338582678" TextBottomInset="0.5669291338582677" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="6355" LeftInset="5.669291338582678" TopInset="0.5669291338582677" RightInset="5.669291338582678" BottomInset="0.5669291338582677" FillColor="Swatch/None" FillTint="30" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein links">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>65.386.005</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i45" Name="1:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0" TextLeftInset="0" TextBottomInset="0" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="172462" LeftInset="0" TopInset="0" RightInset="0" BottomInset="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<TextFrame Self="u8b39" ParentStory="u8b3c" PreviousTextFrame="n" NextTextFrame="n" ContentType="TextType" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" FillColor="Color/C=59 M=0 Y=50 K=0" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[None]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 548.1167415108266 -2209.2191037155512">
+									<Properties>
+										<PathGeometry>
+											<GeometryPathType PathOpen="false">
+												<PathPointArray>
+													<PathPointType Anchor="-542.4048274483266 2209.2191037155512" LeftDirection="-545.5594304593162 2209.2191037155512" RightDirection="-539.250224437337 2209.2191037155512" />
+													<PathPointType Anchor="-536.6929133858266 2203.5071896530512" LeftDirection="-536.6929133858266 2206.6617926640406" RightDirection="-536.6929133858266 2200.352586642062" />
+													<PathPointType Anchor="-542.4048274483266 2197.7952755905512" LeftDirection="-539.250224437337 2197.7952755905512" RightDirection="-545.5594304593162 2197.7952755905512" />
+													<PathPointType Anchor="-548.1167415108266 2203.5071896530512" LeftDirection="-548.1167415108266 2200.352586642062" RightDirection="-548.1167415108266 2206.6617926640406" />
+												</PathPointArray>
+											</GeometryPathType>
+										</PathGeometry>
+									</Properties>
+									<TextFramePreference TextColumnCount="1" TextColumnFixedWidth="11.423828125" TextColumnMaxWidth="0" ColumnRuleOverride="false" ColumnRuleOffset="0" ColumnRuleTopInset="0" ColumnRuleInsetChainOverride="true" ColumnRuleBottomInset="0" ColumnRuleStrokeWidth="0" ColumnRuleStrokeColor="n" ColumnRuleStrokeType="StrokeStyle/$ID/Solid" ColumnRuleStrokeTint="100" ColumnRuleOverprintOverride="false">
+										<Properties>
+											<InsetSpacing type="unit">0</InsetSpacing>
+										</Properties>
+									</TextFramePreference>
+									<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+										<Properties>
+											<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+										</Properties>
+									</TextWrapPreference>
+									<ObjectExportOption EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
+										<Properties>
+											<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+											<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+										</Properties>
+									</ObjectExportOption>
+								</TextFrame>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48ib1" Name="2:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="7618" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Außengewinde</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i95" Name="3:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="7620" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>PS</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48ia5" Name="4:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="1270" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Rote Hervorhebung">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i88" Name="6:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="7622" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>IK</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i3b" Name="7:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="551826" LeftInset="1.4173228346456694" TopInset="1.4173228346456694" RightInset="1.4173228346456694" BottomInset="1.4173228346456694" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>08 / 2005</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i29" Name="0:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="5.669291338582678" TextBottomInset="0.5669291338582677" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="8896" LeftInset="5.669291338582678" TopInset="0.5669291338582677" RightInset="5.669291338582678" BottomInset="0.5669291338582677" FillColor="Swatch/None" FillTint="30" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein links">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>65.386.006</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i91" Name="1:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0" TextLeftInset="0" TextBottomInset="0" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="630225" LeftInset="0" TopInset="0" RightInset="0" BottomInset="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<TextFrame Self="u8b21" ParentStory="u8b24" PreviousTextFrame="n" NextTextFrame="n" ContentType="TextType" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" FillColor="Color/C=85 M=50 Y=0 K=0" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[None]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 548.1167415108266 -2209.2191037155512">
+									<Properties>
+										<PathGeometry>
+											<GeometryPathType PathOpen="false">
+												<PathPointArray>
+													<PathPointType Anchor="-542.4048274483266 2209.2191037155512" LeftDirection="-545.5594304593162 2209.2191037155512" RightDirection="-539.250224437337 2209.2191037155512" />
+													<PathPointType Anchor="-536.6929133858266 2203.5071896530512" LeftDirection="-536.6929133858266 2206.6617926640406" RightDirection="-536.6929133858266 2200.352586642062" />
+													<PathPointType Anchor="-542.4048274483266 2197.7952755905512" LeftDirection="-539.250224437337 2197.7952755905512" RightDirection="-545.5594304593162 2197.7952755905512" />
+													<PathPointType Anchor="-548.1167415108266 2203.5071896530512" LeftDirection="-548.1167415108266 2200.352586642062" RightDirection="-548.1167415108266 2206.6617926640406" />
+												</PathPointArray>
+											</GeometryPathType>
+										</PathGeometry>
+									</Properties>
+									<TextFramePreference TextColumnCount="1" TextColumnFixedWidth="11.423828125" TextColumnMaxWidth="0" ColumnRuleOverride="false" ColumnRuleOffset="0" ColumnRuleTopInset="0" ColumnRuleInsetChainOverride="true" ColumnRuleBottomInset="0" ColumnRuleStrokeWidth="0" ColumnRuleStrokeColor="n" ColumnRuleStrokeType="StrokeStyle/$ID/Solid" ColumnRuleStrokeTint="100" ColumnRuleOverprintOverride="false">
+										<Properties>
+											<InsetSpacing type="unit">0</InsetSpacing>
+										</Properties>
+									</TextFramePreference>
+									<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+										<Properties>
+											<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+										</Properties>
+									</TextWrapPreference>
+									<ObjectExportOption EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
+										<Properties>
+											<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+											<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+										</Properties>
+									</ObjectExportOption>
+								</TextFrame>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48ia1" Name="2:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="10159" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Außengewinde</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48ia0" Name="3:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="10161" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>PS</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i8f" Name="4:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="1270" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Rote Hervorhebung">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48ia2" Name="6:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="10163" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>IK</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48iab" Name="7:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="551826" LeftInset="1.4173228346456694" TopInset="1.4173228346456694" RightInset="1.4173228346456694" BottomInset="1.4173228346456694" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>08 / 2005</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i42" Name="0:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="5.669291338582678" TextBottomInset="0.5669291338582677" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="11437" LeftInset="5.669291338582678" TopInset="0.5669291338582677" RightInset="5.669291338582678" BottomInset="0.5669291338582677" FillColor="Swatch/None" FillTint="30" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein links">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>65.386.007</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i4" Name="1:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0" TextLeftInset="0" TextBottomInset="0" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="237857" LeftInset="0" TopInset="0" RightInset="0" BottomInset="0" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<TextFrame Self="u8b09" ParentStory="u8b0c" PreviousTextFrame="n" NextTextFrame="n" ContentType="TextType" ParentInterfaceChangeCount="" TargetInterfaceChangeCount="" LastUpdatedInterfaceChangeCount="" OverriddenPageItemProps="" HorizontalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" VerticalLayoutConstraints="FlexibleDimension FixedDimension FlexibleDimension" FillColor="Color/C=45 M=45 Y=0 K=5" GradientFillStart="0 0" GradientFillLength="0" GradientFillAngle="0" GradientStrokeStart="0 0" GradientStrokeLength="0" GradientStrokeAngle="0" Locked="false" LocalDisplaySetting="Default" GradientFillHiliteLength="0" GradientFillHiliteAngle="0" GradientStrokeHiliteLength="0" GradientStrokeHiliteAngle="0" AppliedObjectStyle="ObjectStyle/$ID/[None]" Visible="true" Name="$ID/" ItemTransform="1 0 0 1 548.1167415108266 -2209.2191037155512">
+									<Properties>
+										<PathGeometry>
+											<GeometryPathType PathOpen="false">
+												<PathPointArray>
+													<PathPointType Anchor="-542.4048274483266 2209.2191037155512" LeftDirection="-545.5594304593162 2209.2191037155512" RightDirection="-539.250224437337 2209.2191037155512" />
+													<PathPointType Anchor="-536.6929133858266 2203.5071896530512" LeftDirection="-536.6929133858266 2206.6617926640406" RightDirection="-536.6929133858266 2200.352586642062" />
+													<PathPointType Anchor="-542.4048274483266 2197.7952755905512" LeftDirection="-539.250224437337 2197.7952755905512" RightDirection="-545.5594304593162 2197.7952755905512" />
+													<PathPointType Anchor="-548.1167415108266 2203.5071896530512" LeftDirection="-548.1167415108266 2200.352586642062" RightDirection="-548.1167415108266 2206.6617926640406" />
+												</PathPointArray>
+											</GeometryPathType>
+										</PathGeometry>
+									</Properties>
+									<TextFramePreference TextColumnCount="1" TextColumnFixedWidth="11.423828125" TextColumnMaxWidth="0" ColumnRuleOverride="false" ColumnRuleOffset="0" ColumnRuleTopInset="0" ColumnRuleInsetChainOverride="true" ColumnRuleBottomInset="0" ColumnRuleStrokeWidth="0" ColumnRuleStrokeColor="n" ColumnRuleStrokeType="StrokeStyle/$ID/Solid" ColumnRuleStrokeTint="100" ColumnRuleOverprintOverride="false">
+										<Properties>
+											<InsetSpacing type="unit">0</InsetSpacing>
+										</Properties>
+									</TextFramePreference>
+									<TextWrapPreference Inverse="false" ApplyToMasterPageOnly="false" TextWrapSide="BothSides" TextWrapMode="None">
+										<Properties>
+											<TextWrapOffset Top="0" Left="0" Bottom="0" Right="0" />
+										</Properties>
+									</TextWrapPreference>
+									<ObjectExportOption EpubType="$ID/" SizeType="DefaultSize" CustomSize="$ID/" PreserveAppearanceFromLayout="PreserveAppearanceDefault" AltTextSourceType="SourceXMLStructure" ActualTextSourceType="SourceXMLStructure" CustomAltText="$ID/" CustomActualText="$ID/" ApplyTagType="TagFromStructure" ImageConversionType="JPEG" ImageExportResolution="Ppi300" GIFOptionsPalette="AdaptivePalette" GIFOptionsInterlaced="true" JPEGOptionsQuality="High" JPEGOptionsFormat="BaselineEncoding" ImageAlignment="AlignLeft" ImageSpaceBefore="0" ImageSpaceAfter="0" UseImagePageBreak="false" ImagePageBreak="PageBreakBefore" CustomImageAlignment="false" SpaceUnit="CssPixel" CustomLayout="false" CustomLayoutType="AlignmentAndSpacing">
+										<Properties>
+											<AltMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+											<ActualMetadataProperty NamespacePrefix="$ID/" PropertyPath="$ID/" />
+										</Properties>
+									</ObjectExportOption>
+								</TextFrame>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i1e" Name="2:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="12700" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Außengewinde</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i13" Name="3:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="12702" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>PS</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i28" Name="4:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="1270" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Rote Hervorhebung">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48ia" Name="6:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="12704" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>IK</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48ibf" Name="7:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="551828" LeftInset="1.4173228346456694" TopInset="1.4173228346456694" RightInset="1.4173228346456694" BottomInset="1.4173228346456694" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>08 / 2005</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48iad" Name="0:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="5.669291338582678" TextBottomInset="0.5669291338582677" TextRightInset="5.669291338582678" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="13978" LeftInset="5.669291338582678" TopInset="0.5669291338582677" RightInset="5.669291338582678" BottomInset="0.5669291338582677" FillColor="Swatch/None" FillTint="30" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" RightEdgeStrokeTint="100" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein links">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>65.386.992</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48iac" Name="1:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="15241" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" LeftEdgeStrokeTint="100" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Farbmix</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i11" Name="2:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="15241" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>Außengewinde</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48id0" Name="3:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="15243" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>PS</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48id1" Name="4:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="1270" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Rote Hervorhebung">
+								<Content>-</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i2e" Name="6:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="0.5669291338582677" TextLeftInset="1.4173228346456694" TextBottomInset="0.5669291338582677" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="15245" LeftInset="1.4173228346456694" TopInset="0.5669291338582677" RightInset="1.4173228346456694" BottomInset="0.5669291338582677" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>IK</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+					<Cell Self="u7c33i7c48i22" Name="7:8" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="1.4173228346456694" TextLeftInset="1.4173228346456694" TextBottomInset="1.4173228346456694" TextRightInset="1.4173228346456694" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/$ID/[None]" AppliedCellStylePriority="551826" LeftInset="1.4173228346456694" TopInset="1.4173228346456694" RightInset="1.4173228346456694" BottomInset="1.4173228346456694" FillColor="Swatch/None" LeftEdgeStrokeWeight="0.5" RightEdgeStrokeWeight="0.5" TopEdgeStrokeWeight="0.5" BottomEdgeStrokeWeight="0.5" LeftEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" TopEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" RightEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" BottomEdgeStrokeColor="Color/C=5 M=1 Y=0 K=20" VerticalJustification="CenterAlign" ClipContentToCell="false" LeftEdgeStrokePriority="30" RightEdgeStrokePriority="30" TopEdgeStrokePriority="30" BottomEdgeStrokePriority="30">
+						<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle klein">
+							<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+								<Content>05 / 2007</Content>
+							</CharacterStyleRange>
+						</ParagraphStyleRange>
+					</Cell>
+				</Table>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

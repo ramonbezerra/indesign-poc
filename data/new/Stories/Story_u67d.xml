@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.3">
+	<Story Self="u67d" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/PI Unterpunkte_Fließtext">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
+				<Content>Kleinvolumige automatisierbare Blutentnahmeröhrchen</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content> bieten eine innovative Lösung für die Vermeidung von unnötigem labordiagnostischen Blutverlust bei z.B. Intensivpatienten und auf der anderen Seite eine schnellere Befundung pädiatrischer Blutproben durch Wegfall manueller Laborschritte. </Content>
+				<Br />
+				<Content>In dieser Produktinformation werden S-Monovetten mit den Präparierungen Serum CAT und Lithium-Heparin LH und einem Nennvolumen von 1,6 ml vorgestellt:  </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
+				<Content>S-Monovette</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Hochgestellt_Bold">
+				<Content>®</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
+				<Content> 1,6 ml Serum CAT und die S-Monovette</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Hochgestellt_Bold">
+				<Content>®</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
+				<Content> 1,6 ml Lithium-Heparin LH</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>. Mit weniger als 2 ml gehören diese S-Monovetten zu den sog. kleinvolumigen Blutentnahmeröhrchen.</Content>
+				<Br />
+				<Content>Kleinvolumige Blutentnahmeröhrchen gibt es zwar auch von den Mitbewerben BD und Greiner mit 2 ml (&gt; 1,6 ml) und einem Vakuumröhrchen von Greiner mit 1 ml, auch als „low volume“ oder „low vacuum Röhrchen“ bekannt. Die low volume / low vacuum Röhrchen sind mit einem langsamen Blutentnahme-Aufzugsverhalten und kürzerer Haltbarkeit assoziiert. </Content>
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
+				<Content>Es gibt zwei Vermarktungsbereiche für die neuen S-Monovetten:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content> </Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/PI Unterpunkte_Fließtext_Einzug">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
+				<Content>Kinderkrankenhäuser, Pädiatrie-Stationen,</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content> die schon heute mit kleinvolumigen Gefäßen aller Art bei Kindern Blut entnehmen. Allerdings benötigen diese Gefäße für die Bearbeitung im Labor viele manuelle Schritte, angefangen beim manuellen Aussortieren im Probeneingang bis zum Apipettieren nach der Zentrifugation von Serum/Plasma in Sekundärgefäße. Die manuelle Bearbeitung benötigt sowohl labormedizinisches Fachpersonal als auch Zeit. Beides ist im Labor rar. Die automatisierte Probenbearbeitung steht heute aufgrund von weniger labormedizinischem Fachpersonal und hoher Einsender-Erwartungen Laborergebnisse möglichst rasch für eine Therapieentscheidung zu bekommen im Vordergrund. </Content>
+				<Br />
+				<Content>Krankenhäuser, die dem Behandlungskonzept </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
+				<Content>Patient Blood Management (PBM)*</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content> folgen und bei kritischen Patienten wie z.B. auf Intensivstationen das Blutvolumen von Blutentnahmen reduzieren (möchten), um die Patientenbelastung zu reduzieren und Bluttransfusionen möglichst zu vermeiden.</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

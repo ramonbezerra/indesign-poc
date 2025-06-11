@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.2">
+	<Story Self="u80d5" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Text Pis_12pt">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/LOD%3aSimpleBold">
+				<Content>Graduierung und Beschriftung</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Bullet Points 12pt">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Zur visuellen Volumenkontrolle sind CryoPure Röhren graduiert. Außerdem verfügen sie über ein weißes Beschriftungsfeld.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Text Pis_12pt">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
+				<Content>Optimales Design</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Bullet Points 12pt">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Die optimale Innenkontur des Gefäßbodens der CryoPure Röhren erleichtert eine rückstandslose Probenentnahme.</Content>
+				<Br />
+				<Content>Der Standfuß ist freistehend konzipiert.</Content>
+				<Br />
+				<Content>Der Standfuß der CryoPure Röhren ermöglicht im CryoRack 40 und den meisten anderen handelsüblichen Arbeitsständern eine bequeme Einhandbedienung der Röhren.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Text Pis_12pt">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/LOD%3aSimpleBold">
+				<Content>Cryo Performance Tested</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Bullet Points 12pt">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Zell- und Gewebeproben dürfen bei der „vitalen“ Konservierung in CryoPure Röhren keinen zusätzlichen Risiken hinsichtlich Kontaminationen mit störenden Stoffen ausgesetzt werden.  Folgende Reinheitskriterien werden durch ein unabhängiges Labor zertifiziert: </Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Legende%3alegende bulletpoints grün">
+			<Properties>
+				<Mojikumi type="enumeration">Nothing</Mojikumi>
+				<KinsokuSet type="enumeration">Nothing</KinsokuSet>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/medium condensed">
+				<Content>Steril  </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="47 Light Condensed">
+				<Properties>
+					<AppliedFont type="string">Helvetica Neue LT W1G</AppliedFont>
+				</Properties>
+				<Content>Gemäß ISO 11137 </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/medium condensed">
+				<Content>Pyrogenfrei/endotoxinfrei </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="47 Light Condensed">
+				<Properties>
+					<AppliedFont type="string">Helvetica Neue LT W1G</AppliedFont>
+				</Properties>
+				<Content>&lt;0,06 EU/ml</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/medium condensed">
+				<Content>Nicht-zytotoxisch </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" FontStyle="47 Light Condensed">
+				<Properties>
+					<AppliedFont type="string">Helvetica Neue LT W1G</AppliedFont>
+				</Properties>
+				<Content>In Übereinstimmung mit ISO 10993-5</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.3">
+	<Story Self="uf74" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<XMLElement Self="di3ie" MarkupTag="XMLTag/Textbox" XMLContent="uf74">
+			<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_Liste_regular_11,5pt" LeftIndent="0" FirstLineIndent="0" HyphenationZone="49.976346537875145" SpaceAfter="3.935145396683083" RuleAboveLineWeight="1.3882318482743097" RuleBelowLineWeight="1.3882318482743097" SplitColumnInsideGutter="8.329391089645858" ParagraphBorderTopLeftCornerRadius="1.3882318482743097" ParagraphBorderTopRightCornerRadius="1.3882318482743097" ParagraphBorderBottomLeftCornerRadius="1.3882318482743097" ParagraphBorderBottomRightCornerRadius="1.3882318482743097" ParagraphShadingTopLeftCornerRadius="1.3882318482743097" ParagraphShadingTopRightCornerRadius="1.3882318482743097" ParagraphShadingBottomLeftCornerRadius="1.3882318482743097" ParagraphShadingBottomRightCornerRadius="1.3882318482743097" ParagraphBorderTopLineWeight="1.3882318482743097" ParagraphBorderBottomLineWeight="1.3882318482743097" ParagraphBorderLeftLineWeight="1.3882318482743097" ParagraphBorderRightLineWeight="1.3882318482743097">
+				<Properties>
+					<TabList type="list">
+						<ListItem type="record">
+							<Alignment type="enumeration">LeftAlign</Alignment>
+							<AlignmentCharacter type="string">.</AlignmentCharacter>
+							<Leader type="string"></Leader>
+							<Position type="unit">17.70815428507387</Position>
+						</ListItem>
+					</TabList>
+				</Properties>
+				<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" PointSize="11.105854786194477" StrokeWeight="1.3882318482743097" MiterLimit="5.552927393097239" RubyFontSize="-1.3882318482743097" KentenFontSize="-1.3882318482743097">
+					<Properties>
+						<Leading type="unit">13.882318482743097</Leading>
+					</Properties>
+					<XMLElement Self="di3iei1" MarkupTag="XMLTag/Table" XMLContent="uf74i1024" NoTextMarker="true">
+						<Table Self="uf74i1024" HeaderRowCount="0" FooterRowCount="0" TextTopInset="5.552927393097239" TextLeftInset="5.552927393097239" TextBottomInset="5.552927393097239" TextRightInset="5.552927393097239" ClipContentToTextCell="false" BodyRowCount="8" ColumnCount="3" AppliedTableStyle="TableStyle/Tabelle_Broschüre" TableDirection="LeftToRightDirection" SingleRowHeight="4.164695544822929" SingleColumnWidth="3" LeftInset="5.552927393097239" TopInset="5.552927393097239" RightInset="5.552927393097239" BottomInset="5.552927393097239" DefaultRowStrokeWeight="1.3882318482743097" DefaultColumnStrokeWeight="1.3882318482743097" MinimumHeight="4.164695544822929" MaximumHeight="832.9391089645858" StartRowStrokeWeight="1.3882318482743097" EndRowStrokeWeight="0.3470579620685774" StartColumnStrokeWeight="1.3882318482743097" EndColumnStrokeWeight="0.3470579620685774" DiagonalLineStrokeWeight="1.3882318482743097">
+							<Row Self="uf74i1024Row0" Name="0" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="0" ClipContentToTextCell="false" SingleRowHeight="27.54601777678158" MinimumHeight="27.54601777678158" AutoGrow="false" />
+							<Row Self="uf74i1024Row1" Name="1" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="0" ClipContentToTextCell="false" SingleRowHeight="39.35145396683083" MinimumHeight="39.35145396683083" AutoGrow="false" />
+							<Row Self="uf74i1024Row2" Name="2" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.552927393097239" ClipContentToTextCell="false" SingleRowHeight="39.35145396683083" MinimumHeight="39.35145396683083" AutoGrow="true" />
+							<Row Self="uf74i1024Row3" Name="3" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.552927393097239" ClipContentToTextCell="false" SingleRowHeight="107.96279527559055" MinimumHeight="39.35145396683083" AutoGrow="true" />
+							<Row Self="uf74i1024Row4" Name="4" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.552927393097239" ClipContentToTextCell="false" SingleRowHeight="48.97854330708662" MinimumHeight="39.35145396683083" AutoGrow="true" />
+							<Row Self="uf74i1024Row5" Name="5" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="3.935145396683083" ClipContentToTextCell="false" SingleRowHeight="50.96279527559056" MinimumHeight="39.35145396683083" AutoGrow="true" />
+							<Row Self="uf74i1024Row6" Name="6" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="3.935145396683083" ClipContentToTextCell="false" SingleRowHeight="39.35145396683083" MinimumHeight="39.35145396683083" AutoGrow="true" />
+							<Row Self="uf74i1024Row7" Name="7" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="3.935145396683083" ClipContentToTextCell="false" SingleRowHeight="83.53978642919786" MinimumHeight="83.53978642919786" AutoGrow="true" />
+							<Column Self="uf74i1024Column0" Name="0" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="0" ClipContentToTextCell="false" SingleColumnWidth="125.92465269385866" />
+							<Column Self="uf74i1024Column1" Name="1" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="0" ClipContentToTextCell="false" SingleColumnWidth="202.4522996999095" />
+							<Column Self="uf74i1024Column2" Name="2" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="0" ClipContentToTextCell="false" SingleColumnWidth="521.4177710862039" />
+							<Cell Self="uf74i1024i0" Name="0:0" RowSpan="1" ColumnSpan="3" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Kopf" AppliedCellStylePriority="1017144" BottomEdgeStrokeWeight="0.6941159241371548" BottomEdgeStrokeColor="Color/Paper" LeftEdgeStrokePriority="757" RightEdgeStrokePriority="1" TopEdgeStrokePriority="759" BottomEdgeStrokePriority="755">
+								<XMLElement Self="di3iei1i2" MarkupTag="XMLTag/Zelle" XMLContent="uf74i1024i0">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Headline_medium_16pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Laborautomation</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="uf74i1024i3" Name="0:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Kopf" AppliedCellStylePriority="1017144" LeftEdgeStrokeWeight="0.6941159241371548" RightEdgeStrokeWeight="0.6941159241371548" TopEdgeStrokeWeight="0.6941159241371548" TopEdgeStrokeColor="Color/Paper" BottomEdgeStrokeColor="Color/Paper" LeftEdgeStrokePriority="755" RightEdgeStrokePriority="755" TopEdgeStrokePriority="755" BottomEdgeStrokePriority="760">
+								<XMLElement Self="di3iei1i3" MarkupTag="XMLTag/Zelle" XMLContent="uf74i1024i3">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Titel_Kategorie_medium_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Gerätefirmen</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="uf74i1024i4" Name="1:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Kopf" AppliedCellStylePriority="1017144" LeftEdgeStrokeWeight="0.6941159241371548" RightEdgeStrokeWeight="0.6941159241371548" TopEdgeStrokeWeight="0.6941159241371548" TopEdgeStrokeColor="Color/Paper" BottomEdgeStrokeColor="Color/Paper" LeftEdgeStrokePriority="755" RightEdgeStrokePriority="755" TopEdgeStrokePriority="755" BottomEdgeStrokePriority="761">
+								<XMLElement Self="di3iei1i4" MarkupTag="XMLTag/Zelle" XMLContent="uf74i1024i4">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Titel_Kategorie_medium_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Laborautomation /  Prä-/Post-analytische Systeme</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="uf74i1024i5" Name="2:1" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="0" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Kopf" AppliedCellStylePriority="1638492" LeftEdgeStrokeWeight="0.6941159241371548" RightEdgeStrokeWeight="0.6941159241371548" TopEdgeStrokeWeight="0.6941159241371548" TopEdgeStrokeColor="Color/Paper" BottomEdgeStrokeColor="Color/Paper" LeftEdgeStrokePriority="755" RightEdgeStrokePriority="755" TopEdgeStrokePriority="755" BottomEdgeStrokePriority="762">
+								<XMLElement Self="di3iei1i5" MarkupTag="XMLTag/Zelle" XMLContent="uf74i1024i5">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Titel_Kategorie_medium_11,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Status Quo</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="uf74i1024i6" Name="0:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.552927393097239" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" RightInset="5.552927393097239" BottomEdgeStrokeWeight="0.3470579620685774" TopEdgeStrokeColor="Color/Paper" ClipContentToCell="false" LeftEdgeStrokePriority="728" RightEdgeStrokePriority="746" TopEdgeStrokePriority="760" BottomEdgeStrokePriority="763">
+								<XMLElement Self="di3iei1i6" MarkupTag="XMLTag/Zelle" XMLContent="uf74i1024i6">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_9,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>ROCHE</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="uf74i1024i7" Name="1:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.552927393097239" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763604" RightInset="5.552927393097239" BottomEdgeStrokeWeight="0.3470579620685774" TopEdgeStrokeColor="Color/Paper" ClipContentToCell="false" LeftEdgeStrokePriority="746" RightEdgeStrokePriority="32" TopEdgeStrokePriority="761" BottomEdgeStrokePriority="764">
+								<XMLElement Self="di3iei1i7" MarkupTag="XMLTag/Zelle" XMLContent="uf74i1024i7">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_9,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>cobas prä- und post-analytische Systeme (p-Systeme), wie z.B. cobas p312, p512, p612, p501, p701</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="uf74i1024i8" Name="2:2" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.552927393097239" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763604" RightInset="5.552927393097239" BottomEdgeStrokeWeight="0.3470579620685774" TopEdgeStrokeColor="Color/Paper" ClipContentToCell="false" LeftEdgeStrokePriority="32" RightEdgeStrokePriority="746" TopEdgeStrokePriority="762" BottomEdgeStrokePriority="765">
+								<XMLElement Self="di3iei1i8" MarkupTag="XMLTag/Zelle" XMLContent="uf74i1024i8">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_Liste_regular_9,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Offiziell von ROCHE freigegeben und</Content>
+											<Br />
+											<Content>in ROCHE Datenbank und qualified tube list aufgenommen.</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="uf74i1024i9" Name="0:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.552927393097239" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" RightInset="5.552927393097239" TopEdgeStrokeWeight="0.3470579620685774" BottomEdgeStrokeWeight="0.3470579620685774" ClipContentToCell="false" LeftEdgeStrokePriority="728" RightEdgeStrokePriority="746" TopEdgeStrokePriority="763" BottomEdgeStrokePriority="766">
+								<XMLElement Self="di3iei1i9" MarkupTag="XMLTag/Zelle" XMLContent="uf74i1024i9">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_9,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>ROCHE</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="uf74i1024ia" Name="1:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.552927393097239" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763604" RightInset="5.552927393097239" TopEdgeStrokeWeight="0.3470579620685774" BottomEdgeStrokeWeight="0.3470579620685774" ClipContentToCell="false" LeftEdgeStrokePriority="746" RightEdgeStrokePriority="39" TopEdgeStrokePriority="764" BottomEdgeStrokePriority="767">
+								<XMLElement Self="di3iei1ia" MarkupTag="XMLTag/Zelle" XMLContent="uf74i1024ia">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_9,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>cobas 8100</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="uf74i1024ib" Name="2:3" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.552927393097239" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763604" RightInset="5.552927393097239" TopEdgeStrokeWeight="0.3470579620685774" BottomEdgeStrokeWeight="0.3470579620685774" ClipContentToCell="false" LeftEdgeStrokePriority="39" RightEdgeStrokePriority="746" TopEdgeStrokePriority="765" BottomEdgeStrokePriority="768">
+								<XMLElement Self="di3iei1ib" MarkupTag="XMLTag/Zelle" XMLContent="uf74i1024ib">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_Liste_regular_9,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Prinzipiell ist 75 x 13 mm für cobas 8100 Systeme freigegeben.</Content>
+											<Br />
+											<Content>ROCHE hat kürzlich auch die S-Monovette</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleSuperscript">
+											<Content>®</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content> Citrat 1,8 ml (REF 04.1955.xxx; 75 x 13 mm), die baugleich zu den neuen S-Monvette</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleSuperscript">
+											<Content>®</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content> 1,6 ml Serum CAT / S-Monvette</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleSuperscript">
+											<Content>®</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content> 1,6 ml Lithium-Heparin LH ist, validiert. Das bedeutet, dass die Bearbeitung der neuen S-Monovetten 1,6 ml auf den ROCHE cobas 8100 funktionieren wird.</Content>
+											<Br />
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_9,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
+											<Content>Die Freigabe für die S-Monovette</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Hochgestellt_Bold">
+											<Content>®</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
+											<Content> Citrat 1,8 ml) (REF 04.1955.xxx) wird mit dem Softwareupdate in Q2 2025 umgesetzt. Unmittelbar im Anschluss daran werden die neuen S-Monovetten 1,6 ml Serum / Lithium-Heparin freigegeben.</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Br />
+											<Content>Damit dies entsprechend hoch bei ROCHE Global priorisiert wird, müssen alle interessierten Kunden angehalten werden, sich direkt an ihre ROCHE Filialen zu wenden. Allein durch die Nachfrage der jeweiligen ROCHE Filialen bei ROCHE Global wird eine höhere Priorität bei ROCHE Global erreicht.</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="uf74i1024ic" Name="0:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.552927393097239" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" RightInset="5.552927393097239" TopEdgeStrokeWeight="0.3470579620685774" BottomEdgeStrokeWeight="0.3470579620685774" ClipContentToCell="false" LeftEdgeStrokePriority="728" RightEdgeStrokePriority="746" TopEdgeStrokePriority="766" BottomEdgeStrokePriority="769">
+								<XMLElement Self="di3iei1ic" MarkupTag="XMLTag/Zelle" XMLContent="uf74i1024ic">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_9,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>INPECO</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="uf74i1024id" Name="1:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.552927393097239" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763604" RightInset="5.552927393097239" TopEdgeStrokeWeight="0.3470579620685774" BottomEdgeStrokeWeight="0.3470579620685774" ClipContentToCell="false" LeftEdgeStrokePriority="746" RightEdgeStrokePriority="45" TopEdgeStrokePriority="767" BottomEdgeStrokePriority="770">
+								<XMLElement Self="di3iei1id" MarkupTag="XMLTag/Zelle" XMLContent="uf74i1024id">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_9,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>FlexLab/FlexLab X</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="uf74i1024ie" Name="2:4" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.552927393097239" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763604" RightInset="5.552927393097239" TopEdgeStrokeWeight="0.3470579620685774" BottomEdgeStrokeWeight="0.3470579620685774" ClipContentToCell="false" LeftEdgeStrokePriority="45" RightEdgeStrokePriority="746" TopEdgeStrokePriority="768" BottomEdgeStrokePriority="771">
+								<XMLElement Self="di3iei1ie" MarkupTag="XMLTag/Zelle" XMLContent="uf74i1024ie">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_Liste_regular_9,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Offziell von INPECO freigegeben exklusiv des SIM (sample identification module Moduls. Das SIM Modul führt für die Volumen- und HIL-Erkennung durch. Das bedeutet, dass die S-Monovette</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleSuperscript">
+											<Content>®</Content>
+										</CharacterStyleRange>
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content> 1,6 ml Serum / LH auf den INPECO Straßen, die SIM Module enthalten, ohne Volumen- und HIL-Erkennung prozessiert wird. Das gilt prinzipiell für alle Probengefäße mit Zwischenboden.</Content>
+											<Br />
+											<Content>in INPECO interner Datenbank und tube list aufgenommen.</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="uf74i1024if" Name="0:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="3.935145396683083" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" RightInset="3.935145396683083" FillTint="30" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470579620685774" BottomEdgeStrokeWeight="0.3470579620685774" ClipContentToCell="false" LeftEdgeStrokePriority="728" RightEdgeStrokePriority="722" TopEdgeStrokePriority="769" BottomEdgeStrokePriority="772">
+								<XMLElement Self="di3iei1if" MarkupTag="XMLTag/Zelle" XMLContent="uf74i1024if">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_9,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>SIEMENS</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="uf74i1024i10" Name="1:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="3.935145396683083" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" RightInset="3.935145396683083" FillTint="30" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470579620685774" BottomEdgeStrokeWeight="0.3470579620685774" ClipContentToCell="false" LeftEdgeStrokePriority="722" RightEdgeStrokePriority="694" TopEdgeStrokePriority="770" BottomEdgeStrokePriority="773">
+								<XMLElement Self="di3iei1i10" MarkupTag="XMLTag/Zelle" XMLContent="uf74i1024i10">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_9,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Aptio</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="uf74i1024i11" Name="2:5" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.552927393097239" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" RightInset="5.552927393097239" LeftEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470579620685774" BottomEdgeStrokeWeight="0.3470579620685774" ClipContentToCell="false" LeftEdgeStrokePriority="694" RightEdgeStrokePriority="704" TopEdgeStrokePriority="771" BottomEdgeStrokePriority="774">
+								<XMLElement Self="di3iei1i11" MarkupTag="XMLTag/Cell" XMLContent="uf74i1024i11">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_Liste_regular_9,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Prinzipiell ist 75 x 13 mm für Aptio Module freigegeben.</Content>
+											<Br />
+											<Content>Freigegeben &amp; getestet auf allen SIEMENS Aptio Modulen von SIEMENS Deutschland -&gt; Für Deutschland relevant</Content>
+											<Br />
+											<Content>Validierung bei SIEMENS Global angestoßen. Wie bei ROCHE wird eine höhere Priorität allein durch die Nachfrage der jeweiligen SIEMENS Filialen bei SIEMENS Global erreicht.</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="uf74i1024i12" Name="0:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="3.935145396683083" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" RightInset="3.935145396683083" FillTint="30" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470579620685774" BottomEdgeStrokeWeight="0.3470579620685774" ClipContentToCell="false" LeftEdgeStrokePriority="728" RightEdgeStrokePriority="722" TopEdgeStrokePriority="772" BottomEdgeStrokePriority="775">
+								<XMLElement Self="di3iei1i12" MarkupTag="XMLTag/Zelle" XMLContent="uf74i1024i12">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_9,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>ABBOTT</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="uf74i1024i13" Name="1:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="3.935145396683083" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" RightInset="3.935145396683083" FillTint="30" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470579620685774" BottomEdgeStrokeWeight="0.3470579620685774" ClipContentToCell="false" LeftEdgeStrokePriority="722" RightEdgeStrokePriority="694" TopEdgeStrokePriority="773" BottomEdgeStrokePriority="776">
+								<XMLElement Self="di3iei1i13" MarkupTag="XMLTag/Zelle" XMLContent="uf74i1024i13">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_9,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>GLP Systems Track</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="uf74i1024i14" Name="2:6" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.552927393097239" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body" AppliedCellStylePriority="15763603" RightInset="5.552927393097239" LeftEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470579620685774" BottomEdgeStrokeWeight="0.3470579620685774" ClipContentToCell="false" LeftEdgeStrokePriority="694" RightEdgeStrokePriority="704" TopEdgeStrokePriority="774" BottomEdgeStrokePriority="777">
+								<XMLElement Self="di3iei1i14" MarkupTag="XMLTag/Cell" XMLContent="uf74i1024i14">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_Liste_regular_9,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Offiziell von ABBOTT freigegeben und</Content>
+											<Br />
+											<Content>in GLP interner Datenbank und tube list aufgenommen.</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="uf74i1024i15" Name="0:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="3.935145396683083" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body_Abschlusszeile" AppliedCellStylePriority="15763604" RightInset="3.935145396683083" FillTint="30" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470579620685774" BottomEdgeStrokeWeight="0.6941159241371548" ClipContentToCell="false" LeftEdgeStrokePriority="728" RightEdgeStrokePriority="722" TopEdgeStrokePriority="775" BottomEdgeStrokePriority="778">
+								<XMLElement Self="di3iei1i15" MarkupTag="XMLTag/Zelle" XMLContent="uf74i1024i15">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_9,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>BECKMAN COULTER</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="uf74i1024i16" Name="1:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="3.935145396683083" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body_Abschlusszeile" AppliedCellStylePriority="15763604" RightInset="3.935145396683083" FillTint="30" LeftEdgeStrokeWeight="0" RightEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470579620685774" BottomEdgeStrokeWeight="0.6941159241371548" ClipContentToCell="false" LeftEdgeStrokePriority="722" RightEdgeStrokePriority="694" TopEdgeStrokePriority="776" BottomEdgeStrokePriority="779">
+								<XMLElement Self="di3iei1i16" MarkupTag="XMLTag/Zelle" XMLContent="uf74i1024i16">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_9,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>DxA</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+							<Cell Self="uf74i1024i17" Name="2:7" RowSpan="1" ColumnSpan="1" CellType="TextTypeCell" TextTopInset="2.834645669291339" TextLeftInset="5.669291338582678" TextBottomInset="2.834645669291339" TextRightInset="5.552927393097239" ClipContentToTextCell="false" AppliedCellStyle="CellStyle/Tabelle_Body_Abschlusszeile" AppliedCellStylePriority="15763604" RightInset="5.552927393097239" LeftEdgeStrokeWeight="0" TopEdgeStrokeWeight="0.3470579620685774" BottomEdgeStrokeWeight="0.6941159241371548" ClipContentToCell="false" LeftEdgeStrokePriority="694" RightEdgeStrokePriority="704" TopEdgeStrokePriority="777" BottomEdgeStrokePriority="780">
+								<XMLElement Self="di3iei1i17" MarkupTag="XMLTag/Cell" XMLContent="uf74i1024i17">
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_Liste_regular_9,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Prinzipiell ist 75 x 13 mm für DxA freigegeben</Content>
+											<Br />
+											<Content>Beckman Coulter hat die S-Monovetten seit Monaten zur Validierung vorliegen und hat bisher nichts validiert –  trotz hoher Aktivität unsererseits</Content>
+											<Br />
+											<Content>Validierung soll laut Beckman Coulter DE in Q1 / 2025 erfolgen</Content>
+											<Br />
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+									<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Tabelle%3aPI Tabelle_Copy_regular_9,5pt">
+										<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+											<Content>Wie für SIEMENS und ROCHE beschrieben sollen die Kunden sich auch an die lokalen Beckman Coulter Ansprechpartner wenden.</Content>
+										</CharacterStyleRange>
+									</ParagraphStyleRange>
+								</XMLElement>
+							</Cell>
+						</Table>
+					</XMLElement>
+				</CharacterStyleRange>
+			</ParagraphStyleRange>
+		</XMLElement>
+	</Story>
+</idPkg:Story>

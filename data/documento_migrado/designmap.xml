@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="document" readerVersion="6.0" featureSet="257" product="20.3(73)" ?>
+<Document xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.3" Self="d" StoryList="u193 u1b0 u1c6 u1dc u212 u22c u246 u262 u27c u296 u2b2 u2cc u2e6 u302 u31c u336 u352 u36c u386 u3a2 u3bc u3d6 u3f2 u40c u426 u440 u46c u482 u498 u4ae u4c4 u4db u4f1 u507 u51d u533 u54a u560 u576 u58d u5a3 u5b9 u146 u15c u5f9 u60f u628 u63e u654 u67d u456 u6d3 u6e9 u700 u748 u75e u774 u69e u7b4 u7ca u7e1 u822 u83c u852 u868 u87e u894 u8aa u8c0 u90c u922 u93f u955 u96d u983 u99d u9b3 u9ce u9e4 u9fa ua10 ua26 ua3c ua52 ua68 ua7e uaca uae1 uaf7 ub0d ub5f ub76 ub8d uba3 uc34 ubb9 ubd0 ube6 ubfe uc1a uc80 uc97 ucad ucc4 ucda ucf0 ud06 ud1c ud32 ud72 ud89 udd6 udec ue03 ue20 ue37 ue4d ue64 ue7a ue90 uea6 uebe ueda uef6 uf46 uf5d uf74 uf8a ufa0 ufb7 ufcd u1f4 u172 u5d1 u6b7 u724 u798 u805 u8e4 uaa2 ub31 uc58 ud56 udad uf1e uff1 u98" AppliedMathMLFontSize="10" AppliedMathMLRgbColor="0 0 0" TintValue="100" Name="PII_10_990_0000_NA_EU-ISO_Kleinvolumige S-Monovette® 1,6 ml Serum CAT Lithium-Heparin LH_nCD_0125" ZeroPoint="0 0" ActiveLayer="ub8" CMYKProfile="Coated FOGRA39 (ISO 12647-2:2004)" RGBProfile="sRGB IEC61966-2.1" SolidColorIntent="UseColorSettings" AfterBlendingIntent="UseColorSettings" DefaultImageIntent="UseColorSettings" RGBPolicy="PreserveEmbeddedProfiles" CMYKPolicy="CombinationOfPreserveAndSafeCmyk" AccurateLABSpots="false">
+	<Properties>
+		<AppliedMathMLSwatch type="enumeration">Nothing</AppliedMathMLSwatch>
+		<Label>
+			<KeyValuePair Key="kAdobeDPS_Version" Value="2" />
+		</Label>
+	</Properties>
+	<Language Self="Language/$ID/de_DE_2006" Name="$ID/de_DE_2006" SingleQuotes="‚‘" DoubleQuotes="„“" PrimaryLanguageName="$ID/de_DE_2006" SublanguageName="$ID/" Id="275" HyphenationVendor="Duden" SpellingVendor="Duden" />
+	<Language Self="Language/$ID/English%3a USA" Name="$ID/English: USA" SingleQuotes="‘’" DoubleQuotes="“”" PrimaryLanguageName="$ID/English" SublanguageName="$ID/USA" Id="269" HyphenationVendor="Hunspell" SpellingVendor="Hunspell" />
+	<idPkg:Graphic src="Resources/Graphic.xml" />
+	<idPkg:Fonts src="Resources/Fonts.xml" />
+	<KinsokuTable Self="KinsokuTable/$ID/kHardKinsokuName" Name="$ID/kHardKinsokuName" />
+	<KinsokuTable Self="KinsokuTable/$ID/kSoftKinsokuName" Name="$ID/kSoftKinsokuName" />
+	<KinsokuTable Self="KinsokuTable/$ID/kKoreanKinsokuName" Name="$ID/kKoreanKinsokuName" />
+	<KinsokuTable Self="KinsokuTable/$ID/kSimpChineseKinsokuName" Name="$ID/kSimpChineseKinsokuName" />
+	<KinsokuTable Self="KinsokuTable/$ID/kTradChineseKinsokuName" Name="$ID/kTradChineseKinsokuName" />
+	<KinsokuTable Self="KinsokuTable/kHardKinsokuName" Name="kHardKinsokuName" CantBeginLineChars="!),.:;?]}¢—’”‰℃℉、。々〉》」』】〕〟ぁぃぅぇぉっゃゅょゎ゛゜ゝゞァィゥェォッャュョヮヵヶ・ーヽヾ！％），．：；？］｝" CantEndLineChars="([{£§‘“〈《「『【〒〔〝＃＄（＠［｛￥" HangingPunctuationChars="、。，．" CantBeSeparatedChars="—‥…" />
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName1" Name="$ID/kMojikumiDefaultName1" />
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName2" Name="$ID/kMojikumiDefaultName2" />
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName3" Name="$ID/kMojikumiDefaultName3" />
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName4" Name="$ID/kMojikumiDefaultName4" />
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName5" Name="$ID/kMojikumiDefaultName5" />
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName6" Name="$ID/kMojikumiDefaultName6" />
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName7" Name="$ID/kMojikumiDefaultName7" />
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName8" Name="$ID/kMojikumiDefaultName8" />
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName9" Name="$ID/kMojikumiDefaultName9" />
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName10" Name="$ID/kMojikumiDefaultName10" />
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName11" Name="$ID/kMojikumiDefaultName11" />
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName12" Name="$ID/kMojikumiDefaultName12" />
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName13" Name="$ID/kMojikumiDefaultName13" />
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName14" Name="$ID/kMojikumiDefaultName14" />
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName15" Name="$ID/kMojikumiDefaultName15" />
+	<MojikumiTable Self="MojikumiTable/$ID/kMojikumiDefaultName16" Name="$ID/kMojikumiDefaultName16" />
+	<idPkg:Styles src="Resources/Styles.xml" />
+	<NumberingList Self="NumberingList/$ID/[Default]" Name="$ID/[Default]" ContinueNumbersAcrossStories="false" ContinueNumbersAcrossDocuments="false" />
+	<NamedGrid Self="NamedGrid/$ID/[Page Grid]" Name="$ID/[Page Grid]">
+		<GridDataInformation FontStyle="Regular" PointSize="12" CharacterAki="0" LineAki="9" HorizontalScale="100" VerticalScale="100" LineAlignment="LeftOrTopLineJustify" GridAlignment="AlignEmCenter" CharacterAlignment="AlignEmCenter">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</GridDataInformation>
+	</NamedGrid>
+	<idPkg:Preferences src="Resources/Preferences.xml" />
+	<AdjustLayoutPreference EnableAdjustLayout="false" AllowLockedObjectsToAdjust="true" AllowFontSizeAndLeadingAdjustment="false" ImposeFontSizeRestriction="false" MinimumFontSize="6" MaximumFontSize="324" EnableAutoAdjustMargins="false" />
+	<HTMLFXLExportPreference EpubPageRange="" EpubPageRangeFormat="ExportAllPages" />
+	<PublishExportPreference PublishCover="FirstPage" CoverImageFile="" PublishPageRange="" PublishPageRangeFormat="ExportAllPages" ImageConversion="Automatic" ImageExportResolution="Ppi96" PublishDescription="" PublishFileName="" PublishFormat="PublishByPages" CoverPage="$ID/" GIFOptionsPalette="AdaptivePalette" JPEGOptionsQuality="High" PublishPdf="false" />
+	<EndnoteOption EndnoteTitle="Endnoten" EndnoteTitleStyle="ParagraphStyle/$ID/NormalParagraphStyle" StartEndnoteNumberAt="1" EndnoteMarkerStyle="CharacterStyle/$ID/[No character style]" EndnoteTextStyle="ParagraphStyle/$ID/NormalParagraphStyle" EndnoteSeparatorText="&#x9;" EndnotePrefix="" EndnoteSuffix="">
+		<Properties>
+			<EndnoteNumberingStyle type="enumeration">Arabic</EndnoteNumberingStyle>
+			<RestartEndnoteNumbering type="enumeration">Continuous</RestartEndnoteNumbering>
+			<EndnoteMarkerPositioning type="enumeration">SuperscriptMarker</EndnoteMarkerPositioning>
+			<ScopeValue type="enumeration">EndnoteDocumentScope</ScopeValue>
+			<FrameCreateOption type="enumeration">NewPage</FrameCreateOption>
+			<ShowEndnotePrefixSuffix type="enumeration">NoPrefixSuffix</ShowEndnotePrefixSuffix>
+		</Properties>
+	</EndnoteOption>
+	<TextFrameFootnoteOptionsObject EnableOverrides="false" SpanFootnotesAcross="false" MinimumSpacingOption="12" SpaceBetweenFootnotes="6" />
+	<LinkedStoryOption UpdateWhileSaving="false" WarnOnUpdateOfEditedStory="true" RemoveForcedLineBreaks="false" ApplyStyleMappings="false" />
+	<LinkedPageItemOption UpdateLinkWhileSaving="false" WarnOnUpdateOfEditedPageItem="true" PreserveSizeAndShape="false" PreserveAppearance="false" PreserveInteractivity="false" PreserveFrameContent="false" PreserveOthers="false" />
+	<TaggedPDFPreference StructureOrder="UseXMLStructure" />
+	<WatermarkPreference WatermarkVisibility="false" WatermarkDoPrint="false" WatermarkDrawInBack="true" WatermarkText="" WatermarkFontFamily="Minion Pro" WatermarkFontStyle="Regular" WatermarkFontPointSize="48" WatermarkOpacity="50" WatermarkRotation="0" WatermarkHorizontalPosition="WatermarkHCenter" WatermarkHorizontalOffset="0" WatermarkVerticalPosition="WatermarkVCenter" WatermarkVerticalOffset="0">
+		<Properties>
+			<WatermarkFontColor type="enumeration">Black</WatermarkFontColor>
+		</Properties>
+	</WatermarkPreference>
+	<ConditionalTextPreference ShowConditionIndicators="ShowIndicators" ActiveConditionSet="n" />
+	<TextVariable Self="dTextVariablen&lt;?AID 001b?&gt;TV XRefChapterNumber" Name="&lt;?AID 001b?&gt;TV XRefChapterNumber" VariableType="XrefChapterNumberType" />
+	<TextVariable Self="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" VariableType="XrefPageNumberType" />
+	<TextVariable Self="dTextVariablenAusgabedatum" Name="Ausgabedatum" VariableType="OutputDateType">
+		<DateVariablePreference TextBefore="" Format="dd.MM.yy" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenBildname" Name="Bildname" VariableType="LiveCaptionType">
+		<CaptionMetadataVariablePreference TextBefore="" MetadataProviderName="$ID/#LinkInfoNameStr" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenDateiname" Name="Dateiname" VariableType="FileNameType">
+		<FileNameVariablePreference TextBefore="" IncludePath="false" IncludeExtension="false" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenErstellungsdatum" Name="Erstellungsdatum" VariableType="CreationDateType">
+		<DateVariablePreference TextBefore="" Format="dd.MM.yy" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenKapitelnummer" Name="Kapitelnummer" VariableType="ChapterNumberType">
+		<ChapterNumberVariablePreference TextBefore="" Format="Current" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenLebender Kolumnentitel" Name="Lebender Kolumnentitel" VariableType="MatchParagraphStyleType">
+		<MatchParagraphStylePreference TextBefore="" TextAfter="" AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" SearchStrategy="FirstOnPage" ChangeCase="None" DeleteEndPunctuation="false" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenLetzte Seitenzahl" Name="Letzte Seitenzahl" VariableType="LastPageNumberType">
+		<PageNumberVariablePreference TextBefore="" Format="Current" TextAfter="" Scope="SectionScope" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenÄnderungsdatum" Name="Änderungsdatum" VariableType="ModificationDateType">
+		<DateVariablePreference TextBefore="" Format="d. MMMM yyyy, h:mm aa" TextAfter="" />
+	</TextVariable>
+	<idPkg:Tags src="XML/Tags.xml" />
+	<Layer Self="ub8" Name="Ebene 1" Visible="true" Locked="false" IgnoreWrap="false" ShowGuides="true" LockGuides="false" UI="true" Expendable="true" Printable="true">
+		<Properties>
+			<LayerColor type="enumeration">LightBlue</LayerColor>
+		</Properties>
+	</Layer>
+	<idPkg:MasterSpread src="MasterSpreads/MasterSpread_ub9.xml" />
+	<idPkg:Spread src="Spreads/Spread_u187.xml" />
+	<idPkg:Spread src="Spreads/Spread_u209.xml" />
+	<idPkg:Spread src="Spreads/Spread_u5e6.xml" />
+	<idPkg:Spread src="Spreads/Spread_u6cc.xml" />
+	<idPkg:Spread src="Spreads/Spread_u739.xml" />
+	<idPkg:Spread src="Spreads/Spread_u7ad.xml" />
+	<idPkg:Spread src="Spreads/Spread_u81a.xml" />
+	<idPkg:Spread src="Spreads/Spread_u8f9.xml" />
+	<idPkg:Spread src="Spreads/Spread_uab7.xml" />
+	<idPkg:Spread src="Spreads/Spread_ub46.xml" />
+	<idPkg:Spread src="Spreads/Spread_uc6d.xml" />
+	<idPkg:Spread src="Spreads/Spread_ud6b.xml" />
+	<idPkg:Spread src="Spreads/Spread_udc2.xml" />
+	<idPkg:Spread src="Spreads/Spread_uf33.xml" />
+	<Section Self="ub4" Length="14" AlternateLayoutLength="14" AlternateLayout="Google Pixel/Pixel 2 H" Name="" ContinueNumbering="true" IncludeSectionPrefix="false" Marker="" PageStart="u18c" SectionPrefix="">
+		<Properties>
+			<PageNumberStyle type="enumeration">Arabic</PageNumberStyle>
+		</Properties>
+	</Section>
+	<DocumentUser Self="dDocumentUser0" UserName="$ID/Unknown User Name">
+		<Properties>
+			<UserColor type="enumeration">Gold</UserColor>
+		</Properties>
+	</DocumentUser>
+	<CrossReferenceFormat Self="u1006" Name="Vollständiger Absatz und Seitenzahl" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u1006BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u1006BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u1006BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“ auf Seite " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u1006BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u1007" Name="Vollständiger Absatz" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u1007BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u1007BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u1007BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u1008" Name="Absatztext und Seitenzahl" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u1008BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u1008BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u1008BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“ auf Seite " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u1008BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u1009" Name="Absatztext" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u1009BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u1009BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u1009BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u100a" Name="Absatznr. und Seitenzahl" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u100aBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u100aBuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" auf Seite " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u100aBuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u100b" Name="Absatznr." AppliedCharacterStyle="n">
+		<BuildingBlock Self="u100bBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u100c" Name="Name des Textankers und Seitenzahl" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u100cBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u100cBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u100cBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“ auf Seite " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u100cBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u100d" Name="Name des Textankers" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u100dBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u100dBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u100dBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u100e" Name="Seitenzahl" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u100eBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="Seite " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u100eBuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<idPkg:BackingStory src="XML/BackingStory.xml" />
+	<idPkg:Story src="Stories/Story_uff1.xml" />
+	<idPkg:Story src="Stories/Story_uf1e.xml" />
+	<idPkg:Story src="Stories/Story_udad.xml" />
+	<idPkg:Story src="Stories/Story_ud56.xml" />
+	<idPkg:Story src="Stories/Story_uc58.xml" />
+	<idPkg:Story src="Stories/Story_ub31.xml" />
+	<idPkg:Story src="Stories/Story_uaa2.xml" />
+	<idPkg:Story src="Stories/Story_u8e4.xml" />
+	<idPkg:Story src="Stories/Story_u805.xml" />
+	<idPkg:Story src="Stories/Story_u798.xml" />
+	<idPkg:Story src="Stories/Story_u724.xml" />
+	<idPkg:Story src="Stories/Story_u6b7.xml" />
+	<idPkg:Story src="Stories/Story_u5d1.xml" />
+	<idPkg:Story src="Stories/Story_u172.xml" />
+	<idPkg:Story src="Stories/Story_u1f4.xml" />
+	<idPkg:Story src="Stories/Story_ufcd.xml" />
+	<idPkg:Story src="Stories/Story_ufb7.xml" />
+	<idPkg:Story src="Stories/Story_ufa0.xml" />
+	<idPkg:Story src="Stories/Story_uf8a.xml" />
+	<idPkg:Story src="Stories/Story_uf74.xml" />
+	<idPkg:Story src="Stories/Story_uf5d.xml" />
+	<idPkg:Story src="Stories/Story_uf46.xml" />
+	<idPkg:Story src="Stories/Story_uef6.xml" />
+	<idPkg:Story src="Stories/Story_ueda.xml" />
+	<idPkg:Story src="Stories/Story_uebe.xml" />
+	<idPkg:Story src="Stories/Story_uea6.xml" />
+	<idPkg:Story src="Stories/Story_ue90.xml" />
+	<idPkg:Story src="Stories/Story_ue7a.xml" />
+	<idPkg:Story src="Stories/Story_ue64.xml" />
+	<idPkg:Story src="Stories/Story_ue4d.xml" />
+	<idPkg:Story src="Stories/Story_ue37.xml" />
+	<idPkg:Story src="Stories/Story_ue20.xml" />
+	<idPkg:Story src="Stories/Story_ue03.xml" />
+	<idPkg:Story src="Stories/Story_udec.xml" />
+	<idPkg:Story src="Stories/Story_udd6.xml" />
+	<idPkg:Story src="Stories/Story_ud89.xml" />
+	<idPkg:Story src="Stories/Story_ud72.xml" />
+	<idPkg:Story src="Stories/Story_ud32.xml" />
+	<idPkg:Story src="Stories/Story_ud1c.xml" />
+	<idPkg:Story src="Stories/Story_ud06.xml" />
+	<idPkg:Story src="Stories/Story_ucf0.xml" />
+	<idPkg:Story src="Stories/Story_ucda.xml" />
+	<idPkg:Story src="Stories/Story_ucc4.xml" />
+	<idPkg:Story src="Stories/Story_ucad.xml" />
+	<idPkg:Story src="Stories/Story_uc97.xml" />
+	<idPkg:Story src="Stories/Story_uc80.xml" />
+	<idPkg:Story src="Stories/Story_uc1a.xml" />
+	<idPkg:Story src="Stories/Story_ubfe.xml" />
+	<idPkg:Story src="Stories/Story_ube6.xml" />
+	<idPkg:Story src="Stories/Story_ubd0.xml" />
+	<idPkg:Story src="Stories/Story_ubb9.xml" />
+	<idPkg:Story src="Stories/Story_uc34.xml" />
+	<idPkg:Story src="Stories/Story_uba3.xml" />
+	<idPkg:Story src="Stories/Story_ub8d.xml" />
+	<idPkg:Story src="Stories/Story_ub76.xml" />
+	<idPkg:Story src="Stories/Story_ub5f.xml" />
+	<idPkg:Story src="Stories/Story_ub0d.xml" />
+	<idPkg:Story src="Stories/Story_uaf7.xml" />
+	<idPkg:Story src="Stories/Story_uae1.xml" />
+	<idPkg:Story src="Stories/Story_uaca.xml" />
+	<idPkg:Story src="Stories/Story_ua7e.xml" />
+	<idPkg:Story src="Stories/Story_ua68.xml" />
+	<idPkg:Story src="Stories/Story_ua52.xml" />
+	<idPkg:Story src="Stories/Story_ua3c.xml" />
+	<idPkg:Story src="Stories/Story_ua26.xml" />
+	<idPkg:Story src="Stories/Story_ua10.xml" />
+	<idPkg:Story src="Stories/Story_u9fa.xml" />
+	<idPkg:Story src="Stories/Story_u9e4.xml" />
+	<idPkg:Story src="Stories/Story_u9ce.xml" />
+	<idPkg:Story src="Stories/Story_u9b3.xml" />
+	<idPkg:Story src="Stories/Story_u99d.xml" />
+	<idPkg:Story src="Stories/Story_u983.xml" />
+	<idPkg:Story src="Stories/Story_u96d.xml" />
+	<idPkg:Story src="Stories/Story_u955.xml" />
+	<idPkg:Story src="Stories/Story_u93f.xml" />
+	<idPkg:Story src="Stories/Story_u922.xml" />
+	<idPkg:Story src="Stories/Story_u90c.xml" />
+	<idPkg:Story src="Stories/Story_u8c0.xml" />
+	<idPkg:Story src="Stories/Story_u8aa.xml" />
+	<idPkg:Story src="Stories/Story_u894.xml" />
+	<idPkg:Story src="Stories/Story_u87e.xml" />
+	<idPkg:Story src="Stories/Story_u868.xml" />
+	<idPkg:Story src="Stories/Story_u852.xml" />
+	<idPkg:Story src="Stories/Story_u83c.xml" />
+	<idPkg:Story src="Stories/Story_u822.xml" />
+	<idPkg:Story src="Stories/Story_u7e1.xml" />
+	<idPkg:Story src="Stories/Story_u7ca.xml" />
+	<idPkg:Story src="Stories/Story_u7b4.xml" />
+	<idPkg:Story src="Stories/Story_u69e.xml" />
+	<idPkg:Story src="Stories/Story_u774.xml" />
+	<idPkg:Story src="Stories/Story_u75e.xml" />
+	<idPkg:Story src="Stories/Story_u748.xml" />
+	<idPkg:Story src="Stories/Story_u700.xml" />
+	<idPkg:Story src="Stories/Story_u6e9.xml" />
+	<idPkg:Story src="Stories/Story_u6d3.xml" />
+	<idPkg:Story src="Stories/Story_u456.xml" />
+	<idPkg:Story src="Stories/Story_u67d.xml" />
+	<idPkg:Story src="Stories/Story_u654.xml" />
+	<idPkg:Story src="Stories/Story_u63e.xml" />
+	<idPkg:Story src="Stories/Story_u628.xml" />
+	<idPkg:Story src="Stories/Story_u60f.xml" />
+	<idPkg:Story src="Stories/Story_u5f9.xml" />
+	<idPkg:Story src="Stories/Story_u15c.xml" />
+	<idPkg:Story src="Stories/Story_u146.xml" />
+	<idPkg:Story src="Stories/Story_u5b9.xml" />
+	<idPkg:Story src="Stories/Story_u5a3.xml" />
+	<idPkg:Story src="Stories/Story_u58d.xml" />
+	<idPkg:Story src="Stories/Story_u576.xml" />
+	<idPkg:Story src="Stories/Story_u560.xml" />
+	<idPkg:Story src="Stories/Story_u54a.xml" />
+	<idPkg:Story src="Stories/Story_u533.xml" />
+	<idPkg:Story src="Stories/Story_u51d.xml" />
+	<idPkg:Story src="Stories/Story_u507.xml" />
+	<idPkg:Story src="Stories/Story_u4f1.xml" />
+	<idPkg:Story src="Stories/Story_u4db.xml" />
+	<idPkg:Story src="Stories/Story_u4c4.xml" />
+	<idPkg:Story src="Stories/Story_u4ae.xml" />
+	<idPkg:Story src="Stories/Story_u498.xml" />
+	<idPkg:Story src="Stories/Story_u482.xml" />
+	<idPkg:Story src="Stories/Story_u46c.xml" />
+	<idPkg:Story src="Stories/Story_u440.xml" />
+	<idPkg:Story src="Stories/Story_u426.xml" />
+	<idPkg:Story src="Stories/Story_u40c.xml" />
+	<idPkg:Story src="Stories/Story_u3f2.xml" />
+	<idPkg:Story src="Stories/Story_u3d6.xml" />
+	<idPkg:Story src="Stories/Story_u3bc.xml" />
+	<idPkg:Story src="Stories/Story_u3a2.xml" />
+	<idPkg:Story src="Stories/Story_u386.xml" />
+	<idPkg:Story src="Stories/Story_u36c.xml" />
+	<idPkg:Story src="Stories/Story_u352.xml" />
+	<idPkg:Story src="Stories/Story_u336.xml" />
+	<idPkg:Story src="Stories/Story_u31c.xml" />
+	<idPkg:Story src="Stories/Story_u302.xml" />
+	<idPkg:Story src="Stories/Story_u2e6.xml" />
+	<idPkg:Story src="Stories/Story_u2cc.xml" />
+	<idPkg:Story src="Stories/Story_u2b2.xml" />
+	<idPkg:Story src="Stories/Story_u296.xml" />
+	<idPkg:Story src="Stories/Story_u27c.xml" />
+	<idPkg:Story src="Stories/Story_u262.xml" />
+	<idPkg:Story src="Stories/Story_u246.xml" />
+	<idPkg:Story src="Stories/Story_u22c.xml" />
+	<idPkg:Story src="Stories/Story_u212.xml" />
+	<idPkg:Story src="Stories/Story_u1dc.xml" />
+	<idPkg:Story src="Stories/Story_u1c6.xml" />
+	<idPkg:Story src="Stories/Story_u1b0.xml" />
+	<idPkg:Story src="Stories/Story_u193.xml" />
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.2079" Name=".2079" NameManually="true" DestinationPage="u20e" ViewSetting="Fixed" ViewPercentage="66.66666666666666" Hidden="true" DestinationUniqueKey="198">
+		<Properties>
+			<ViewBounds Top="-666" Left="-972" Bottom="643.5" Right="1722" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.2454" Name=".2454" NameManually="true" DestinationPage="u5eb" ViewSetting="Fixed" ViewPercentage="79.53703703703704" Hidden="true" DestinationUniqueKey="202">
+		<Properties>
+			<ViewBounds Top="533.0849825378347" Left="-1849.452852153667" Bottom="1630.686845168801" Right="408.61466821885915" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.2464" Name=".2464" NameManually="true" DestinationPage="u5eb" ViewSetting="Fixed" ViewPercentage="79.53703703703704" Hidden="true" DestinationUniqueKey="203">
+		<Properties>
+			<ViewBounds Top="533.0849825378347" Left="-1849.452852153667" Bottom="1630.686845168801" Right="408.61466821885915" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/Page 8 [Fixed]" Name="Page 8 [Fixed]" NameManually="false" DestinationPage="u8fe" ViewSetting="Fixed" ViewPercentage="66.66666666666666" Hidden="false" DestinationUniqueKey="209">
+		<Properties>
+			<ViewBounds Top="616.5" Left="-1354.5" Bottom="1926" Right="1339.5" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.3688" Name=".3688" NameManually="true" DestinationPage="u8fe" ViewSetting="Fixed" ViewPercentage="66.66666666666666" Hidden="true" DestinationUniqueKey="210">
+		<Properties>
+			<ViewBounds Top="616.5" Left="-1354.5" Bottom="1926" Right="1339.5" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.3698" Name=".3698" NameManually="true" DestinationPage="u8fe" ViewSetting="Fixed" ViewPercentage="66.66666666666666" Hidden="true" DestinationUniqueKey="211">
+		<Properties>
+			<ViewBounds Top="616.5" Left="-1354.5" Bottom="1926" Right="1339.5" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.3708" Name=".3708" NameManually="true" DestinationPage="u8fe" ViewSetting="Fixed" ViewPercentage="66.66666666666666" Hidden="true" DestinationUniqueKey="212">
+		<Properties>
+			<ViewBounds Top="616.5" Left="-1354.5" Bottom="1926" Right="1339.5" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.3719" Name=".3719" NameManually="true" DestinationPage="u8fe" ViewSetting="Fixed" ViewPercentage="66.66666666666666" Hidden="true" DestinationUniqueKey="214">
+		<Properties>
+			<ViewBounds Top="616.5" Left="-1354.5" Bottom="1926" Right="1339.5" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.4030" Name=".4030" NameManually="true" DestinationPage="uabc" ViewSetting="Fixed" ViewPercentage="81.74157303370787" Hidden="true" DestinationUniqueKey="216">
+		<Properties>
+			<ViewBounds Top="745.0309278350517" Left="-1098.5841924398626" Bottom="1813.030927835052" Right="1098.5841924398628" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.4379" Name=".4379" NameManually="true" DestinationPage="ub4b" ViewSetting="Fixed" ViewPercentage="66.66666666666666" Hidden="true" DestinationUniqueKey="221">
+		<Properties>
+			<ViewBounds Top="826.5" Left="-1161" Bottom="2136" Right="1533" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.4821" Name=".4821" NameManually="true" DestinationPage="uc72" ViewSetting="Fixed" ViewPercentage="70.28985507246377" Hidden="true" DestinationUniqueKey="223">
+		<Properties>
+			<ViewBounds Top="680.0412371134021" Left="-1236.3092783505156" Bottom="1922.041237113402" Right="1318.8247422680413" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.5064" Name=".5064" NameManually="true" DestinationPage="ud70" ViewSetting="Fixed" ViewPercentage="70.28985507246377" Hidden="true" DestinationUniqueKey="224">
+		<Properties>
+			<ViewBounds Top="577.6082474226805" Left="-1249.1134020618556" Bottom="1819.6082474226805" Right="1306.0206185567013" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.5570" Name=".5570" NameManually="true" DestinationPage="udc7" ViewSetting="Fixed" ViewPercentage="71.49877149877149" Hidden="true" DestinationUniqueKey="229">
+		<Properties>
+			<ViewBounds Top="676.9347079037801" Left="-1355.2680412371135" Bottom="1897.9347079037802" Right="1156.66323024055" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkPageDestination Self="HyperlinkPageDestination/.6081" Name=".6081" NameManually="true" DestinationPage="uf38" ViewSetting="Fixed" ViewPercentage="66.66666666666666" Hidden="true" DestinationUniqueKey="231">
+		<Properties>
+			<ViewBounds Top="616.5" Left="-1504.5" Bottom="1926" Right="1189.5" />
+		</Properties>
+	</HyperlinkPageDestination>
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.sarstedt.com/en/" DestinationUniqueKey="204" Name="https://www.sarstedt.com/en/" DestinationURL="https://www.sarstedt.com/en/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.sarstedt.com/en/products/diagnostic/venous-blood/s-monovette/" DestinationUniqueKey="218" Name="https://www.sarstedt.com/en/products/diagnostic/venous-blood/s-monovette/" DestinationURL="https://www.sarstedt.com/en/products/diagnostic/venous-blood/s-monovette/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.sarstedt.com/en/media-center/mediacenter/" DestinationUniqueKey="219" Name="https://www.sarstedt.com/en/media-center/mediacenter/" DestinationURL="https://www.sarstedt.com/en/media-center/mediacenter/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.sarstedt.com/en/download/safety-data-sheets-1/" DestinationUniqueKey="226" Name="https://www.sarstedt.com/en/download/safety-data-sheets-1/" DestinationURL="https://www.sarstedt.com/en/download/safety-data-sheets-1/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.sarstedt.com/en/download/declarations-of-conformity/" DestinationUniqueKey="227" Name="https://www.sarstedt.com/en/download/declarations-of-conformity/" DestinationURL="https://www.sarstedt.com/en/download/declarations-of-conformity/" Hidden="false" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/https%3a//www.sarstedt.com/en/download/instructions-for-use/" DestinationUniqueKey="228" Name="https://www.sarstedt.com/en/download/instructions-for-use/" DestinationURL="https://www.sarstedt.com/en/download/instructions-for-use/" Hidden="false" />
+	<HyperlinkPageItemSource Self="u11f8" Name="Hyperlink 4" SourcePageItem="u139" Hidden="false" />
+	<HyperlinkPageItemSource Self="u11f7" Name="Hyperlink 5" SourcePageItem="u16e" Hidden="false" />
+	<HyperlinkPageItemSource Self="u11f6" Name="Hyperlink 23" SourcePageItem="u452" Hidden="false" />
+	<HyperlinkPageItemSource Self="u11f5" Name="Hyperlink 8" SourcePageItem="u468" Hidden="false" />
+	<HyperlinkPageItemSource Self="u11f4" Name="Hyperlink 6" SourcePageItem="u47e" Hidden="false" />
+	<HyperlinkPageItemSource Self="u11f3" Name="Hyperlink 9" SourcePageItem="u494" Hidden="false" />
+	<HyperlinkPageItemSource Self="u11f2" Name="Hyperlink 22" SourcePageItem="u4aa" Hidden="false" />
+	<HyperlinkPageItemSource Self="u11f1" Name="Hyperlink 21" SourcePageItem="u4c0" Hidden="false" />
+	<HyperlinkPageItemSource Self="u11f0" Name="Hyperlink 10" SourcePageItem="u4d6" Hidden="false" />
+	<HyperlinkPageItemSource Self="u11ef" Name="Hyperlink 11" SourcePageItem="u58b" Hidden="false" />
+	<HyperlinkPageItemSource Self="u11ee" Name="Hyperlink 12" SourcePageItem="ubfb" Hidden="false" />
+	<HyperlinkPageItemSource Self="u11ed" Name="Hyperlink 13" SourcePageItem="uc17" Hidden="false" />
+	<HyperlinkPageItemSource Self="u11ec" Name="Hyperlink 14" SourcePageItem="u548" Hidden="false" />
+	<HyperlinkPageItemSource Self="u11eb" Name="Hyperlink 7" SourcePageItem="u588" Hidden="false" />
+	<HyperlinkPageItemSource Self="u11ea" Name="Hyperlink 15" SourcePageItem="uebb" Hidden="false" />
+	<HyperlinkPageItemSource Self="u11e9" Name="Hyperlink 16" SourcePageItem="ued7" Hidden="false" />
+	<HyperlinkPageItemSource Self="u11e8" Name="Hyperlink 17" SourcePageItem="uef3" Hidden="false" />
+	<HyperlinkPageItemSource Self="u11e7" Name="Hyperlink 19" SourcePageItem="u4d9" Hidden="false" />
+	<HyperlinkPageItemSource Self="u11e6" Name="Hyperlink 20" SourcePageItem="u545" Hidden="false" />
+	<Hyperlink Self="u11f9" Name="&lt;Sarstedt_Logo_Rot_RGB_300px.png&gt; 1" Source="u11f8" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="204">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkURLDestination/https%3a//www.sarstedt.com/en/</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u11fa" Name="&lt;Produktinformation&gt; 1" Source="u11f7" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="198">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.2079</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u11fb" Name="&lt;1.1 Produktbeschreibung / Zweckb...&gt;" Source="u11f6" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="202">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.2454</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u11fc" Name="&lt;1.2 Eigenschaften, Vorteile &amp; Nu...&gt;" Source="u11f5" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="203">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.2464</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u11fd" Name="&lt;2.1 Kundenkreis&gt;" Source="u11f4" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="210">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.3688</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u11fe" Name="&lt;2.2 Schlagwörter&gt;" Source="u11f3" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="211">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.3698</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u11ff" Name="&lt;2.3 Positionierung&gt;" Source="u11f2" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="212">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.3708</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u1200" Name="&lt;2.4 Potential&gt;" Source="u11f1" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="214">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.3719</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u1201" Name="&lt;3.1 Produktdaten &amp; Bestellinform...&gt;" Source="u11f0" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="216">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.4030</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u1202" Name="&lt;Gruppe&gt;" Source="u11ef" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="221">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.4379</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u1203" Name="&lt;Gruppe&gt; 3" Source="u11ee" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="218">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkURLDestination/https%3a//www.sarstedt.com/en/products/diagnostic/venous-blood/s-monovette/</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u1204" Name="&lt;Gruppe&gt; 4" Source="u11ed" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="219">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkURLDestination/https%3a//www.sarstedt.com/en/media-center/mediacenter/</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u1205" Name="&lt;Gruppe&gt; 1" Source="u11ec" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="223">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.4821</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u1206" Name="&lt;5.3 Eigenschaften und Vorteile M...&gt;" Source="u11eb" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="224">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.5064</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u1207" Name="&lt;Gruppe&gt; 2" Source="u11ea" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="226">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkURLDestination/https%3a//www.sarstedt.com/en/download/safety-data-sheets-1/</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u1208" Name="&lt;Gruppe&gt; 5" Source="u11e9" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="227">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkURLDestination/https%3a//www.sarstedt.com/en/download/declarations-of-conformity/</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u1209" Name="&lt;Gruppe&gt; 6" Source="u11e8" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="228">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkURLDestination/https%3a//www.sarstedt.com/en/download/instructions-for-use/</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u120a" Name="QR Code (www.sarstedt.com/s-monovette)" Source="u1034" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="0">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="list">
+				<ListItem type="string">C:\Users\anne.weber\AppData\Local\Adobe\InDesign\Version 20.0\de_DE\Caches\InDesign ClipboardScrap1</ListItem>
+				<ListItem type="string"></ListItem>
+				<ListItem type="long">0</ListItem>
+				<ListItem type="long">35841</ListItem>
+				<ListItem type="long">0</ListItem>
+			</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u120f" Name="&lt;Gruppe&gt; 7" Source="u11e7" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="229">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.5570</Destination>
+		</Properties>
+	</Hyperlink>
+	<Hyperlink Self="u1210" Name="&lt;7.1 Hintergrundinformationen&gt;" Source="u11e6" Visible="false" Highlight="None" Width="Thin" BorderStyle="Solid" Hidden="false" DestinationUniqueKey="231">
+		<Properties>
+			<BorderColor type="enumeration">Black</BorderColor>
+			<Destination type="object">HyperlinkPageDestination/.6081</Destination>
+		</Properties>
+	</Hyperlink>
+	<Bookmark Self="u1211" Name="Beschreibung &amp; Vorteile" Destination="HyperlinkTextDestination/Anchor 1" />
+	<Bookmark Self="u1212" Name="Positionierung &amp; Kunden" Destination="HyperlinkTextDestination/Anchor 1" />
+	<Bookmark Self="u1213" Name="Produktdaten &amp; Bestellinformation" Destination="HyperlinkTextDestination/Anchor 1" />
+	<Bookmark Self="u1214" Name="Kommunikationsmedien zur Vertriebsunterstützung" Destination="HyperlinkTextDestination/Anchor 1" />
+	<Bookmark Self="u1215" Name="Mitbewerberinformationen" Destination="HyperlinkTextDestination/Anchor 1" />
+	<Bookmark Self="u1216" Name="Verpackung &amp; Gebrauchshinweis" Destination="HyperlinkTextDestination/Anchor 1" />
+	<Bookmark Self="u1217" Name="Hintergrundinformationen &amp; Literatur" Destination="HyperlinkTextDestination/Anchor 1" />
+	<Bookmark Self="u1218" Name="START" Destination="HyperlinkTextDestination/Anchor 1" />
+	<IndexingSortOption Self="dIndexingSortOptionnkIndexGroup_Symbol" Name="$ID/kIndexGroup_Symbol" Include="true" Priority="0" HeaderType="Nothing" />
+	<IndexingSortOption Self="dIndexingSortOptionnkIndexGroup_Alphabet" Name="$ID/kIndexGroup_Alphabet" Include="true" Priority="1" HeaderType="BasicLatin" />
+	<IndexingSortOption Self="dIndexingSortOptionnkIndexGroup_Numeric" Name="$ID/kIndexGroup_Numeric" Include="false" Priority="2" HeaderType="Nothing" />
+	<IndexingSortOption Self="dIndexingSortOptionnkWRIndexGroup_GreekAlphabet" Name="$ID/kWRIndexGroup_GreekAlphabet" Include="false" Priority="3" HeaderType="Nothing" />
+	<IndexingSortOption Self="dIndexingSortOptionnkWRIndexGroup_CyrillicAlphabet" Name="$ID/kWRIndexGroup_CyrillicAlphabet" Include="false" Priority="4" HeaderType="Russian" />
+	<IndexingSortOption Self="dIndexingSortOptionnkIndexGroup_Kana" Name="$ID/kIndexGroup_Kana" Include="false" Priority="5" HeaderType="HiraganaAll" />
+	<IndexingSortOption Self="dIndexingSortOptionnkIndexGroup_Chinese" Name="$ID/kIndexGroup_Chinese" Include="false" Priority="6" HeaderType="ChinesePinyin" />
+	<IndexingSortOption Self="dIndexingSortOptionnkIndexGroup_Korean" Name="$ID/kIndexGroup_Korean" Include="false" Priority="7" HeaderType="KoreanConsonant" />
+	<IndexingSortOption Self="dIndexingSortOptionnkWRIndexGroup_ArabicAlphabet" Name="$ID/kWRIndexGroup_ArabicAlphabet" Include="false" Priority="8" HeaderType="Nothing" />
+	<IndexingSortOption Self="dIndexingSortOptionnkWRIndexGroup_HebrewAlphabet" Name="$ID/kWRIndexGroup_HebrewAlphabet" Include="false" Priority="9" HeaderType="Nothing" />
+	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
+		<ColorGroupSwatch Self="u12ColorGroupSwatch0" SwatchItemRef="Swatch/None" />
+		<ColorGroupSwatch Self="u12ColorGroupSwatch1" SwatchItemRef="Color/Registration" />
+		<ColorGroupSwatch Self="u12ColorGroupSwatch2" SwatchItemRef="Color/Paper" />
+		<ColorGroupSwatch Self="u12ColorGroupSwatch3" SwatchItemRef="Color/Black" />
+		<ColorGroupSwatch Self="u12ColorGroupSwatch4" SwatchItemRef="Color/#272727" />
+		<ColorGroupSwatch Self="u12ColorGroupSwatch5" SwatchItemRef="Color/#49AC33" />
+		<ColorGroupSwatch Self="u12ColorGroupSwatch6" SwatchItemRef="Color/#4D4D4D" />
+		<ColorGroupSwatch Self="u12ColorGroupSwatch7" SwatchItemRef="Color/#C8102E" />
+		<ColorGroupSwatch Self="u12ColorGroupSwatch8" SwatchItemRef="Color/#E0E0E0" />
+		<ColorGroupSwatch Self="u12ColorGroupSwatch9" SwatchItemRef="Color/#F0F0F0" />
+		<ColorGroupSwatch Self="u12ColorGroupSwatcha" SwatchItemRef="Color/Akzent_Blau_COPORATE_CMYK" />
+		<ColorGroupSwatch Self="u12ColorGroupSwatchb" SwatchItemRef="Color/Orange Schraubverschluss" />
+		<ColorGroupSwatch Self="u12ColorGroupSwatchc" SwatchItemRef="Color/r200g16b46" />
+		<ColorGroupSwatch Self="u12ColorGroupSwatchd" SwatchItemRef="Color/r255g255b255" />
+	</ColorGroup>
+	<ABullet Self="dABullet0" CharacterType="UnicodeOnly" CharacterValue="8226">
+		<Properties>
+			<BulletsFont type="string">$ID/</BulletsFont>
+			<BulletsFontStyle type="string">$ID/</BulletsFontStyle>
+		</Properties>
+	</ABullet>
+	<ABullet Self="dABullet1" CharacterType="UnicodeOnly" CharacterValue="42">
+		<Properties>
+			<BulletsFont type="string">$ID/</BulletsFont>
+			<BulletsFontStyle type="string">$ID/</BulletsFontStyle>
+		</Properties>
+	</ABullet>
+	<ABullet Self="dABullet2" CharacterType="UnicodeOnly" CharacterValue="9674">
+		<Properties>
+			<BulletsFont type="string">$ID/</BulletsFont>
+			<BulletsFontStyle type="string">$ID/</BulletsFontStyle>
+		</Properties>
+	</ABullet>
+	<ABullet Self="dABullet3" CharacterType="UnicodeWithFont" CharacterValue="187">
+		<Properties>
+			<BulletsFont type="string">Myriad Pro</BulletsFont>
+			<BulletsFontStyle type="string">$ID/Regular</BulletsFontStyle>
+		</Properties>
+	</ABullet>
+	<ABullet Self="dABullet4" CharacterType="GlyphWithFont" CharacterValue="503">
+		<Properties>
+			<BulletsFont type="string">Minion Pro</BulletsFont>
+			<BulletsFontStyle type="string">$ID/Regular</BulletsFontStyle>
+		</Properties>
+	</ABullet>
+	<ABullet Self="dABullet5" CharacterType="UnicodeWithFont" CharacterValue="9632">
+		<Properties>
+			<BulletsFont type="string">Clear Sans</BulletsFont>
+			<BulletsFontStyle type="string">Regular</BulletsFontStyle>
+		</Properties>
+	</ABullet>
+	<Assignment Self="uc7" Name="$ID/UnassignedInCopy" UserName="$ID/" ExportOptions="AssignedSpreads" IncludeLinksWhenPackage="true" FilePath="$ID/">
+		<Properties>
+			<FrameColor type="enumeration">Nothing</FrameColor>
+		</Properties>
+	</Assignment>
+</Document>

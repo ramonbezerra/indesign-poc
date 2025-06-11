@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.2">
+	<Story Self="u63bc" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Text_Pis">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>CryoPure Gefäße werden in vier verschiedenen Ausführungen angeboten, welche sich in ihrem Fassungsvermögen oder Schraubdeckelfarbe unterscheiden (siehe Abbildung 1). Alle Gefäße bestehen aus einem klaren Kunststoffgefäß mit Rundboden und sind mit einem Schraubverschluss versehen, wobei drei Varianten mit Außengewinde und eine Variante mit Innengewinde und Silikondichtring erhältlich sind. Alle Röhren besitzen ein Schriftfeld und eine eindeutige Kennzeichnung der Nennfüllmenge. </Content>
+				<Br />
+				<Content>In die Schraubverschlüsse können sogenannte Codierplättchen in unterschiedlichen Farben eingedrückt werden um eine Probenkodierung zu ermöglichen.</Content>
+				<Br />
+				<Br />
+				<Content>CryoPure Gefäße sind Einweggefäße für die Lagerung und Kryokonservierung von festen und flüssigen, biologischen Proben (z.B. Gewebe) bei Temperaturen bis -196°C. CryoPure Gefäße sind in der Gasphase des flüssigen Stickstoffs zu lagern. Die Anwendung darf ausschließlich durch entsprechend geschultes Fachpersonal erfolgen.</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>

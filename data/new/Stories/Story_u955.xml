@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.3">
+	<Story Self="u955" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/PI Unterpunkte_Fließtext">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Venöse Blutentnahme, Serum / Gerinnungsförderer, Lithium Heparin, Klinische Chemie, Immnunologie,  automatiersierbare Probenbearbeitung, automatisierte Prozesssierung, Wegfall manueller Laborschritte, Workflow im Routinelabor, TAT (Turn-around-Time), Patient Blood Management, kleinvolumige Blutproben, geringes Blutvolumen, labordiagnostische Blutverlust, Intensivstation, onkologische Station / onkologische Klinik, pädiatrische Blutproben, Kinderblutproben, Kinderklinik</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>
