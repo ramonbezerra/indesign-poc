@@ -1,6 +1,8 @@
 /.idx
 /.venv
 /.vscode
-/baked_goods_1.jpg
-/baked_goods_2.jpg
-/baked_goods_3.jpg
+/data/migrated
+/data/old
+/data/new
+/output
+migrated.idml

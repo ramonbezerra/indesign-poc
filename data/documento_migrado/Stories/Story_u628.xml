@@ -1,15 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.3">
-	<Story Self="u628" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
-		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
-		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/PI Fußnote" HyphenationZone="49.99035634701093" RuleAboveLineWeight="1.3886210096391924" RuleBelowLineWeight="1.3886210096391924" SplitColumnInsideGutter="8.331726057835153" ParagraphBorderTopLeftCornerRadius="16.663452115670307" ParagraphBorderTopRightCornerRadius="16.663452115670307" ParagraphBorderBottomLeftCornerRadius="16.663452115670307" ParagraphBorderBottomRightCornerRadius="16.663452115670307" ParagraphShadingTopLeftCornerRadius="16.663452115670307" ParagraphShadingTopRightCornerRadius="16.663452115670307" ParagraphShadingBottomLeftCornerRadius="16.663452115670307" ParagraphShadingBottomRightCornerRadius="16.663452115670307" ParagraphBorderTopLineWeight="1.3886210096391924" ParagraphBorderBottomLineWeight="1.3886210096391924" ParagraphBorderLeftLineWeight="1.3886210096391924" ParagraphBorderRightLineWeight="1.3886210096391924">
-			<Properties>
-				<SameParaStyleSpacing type="unit">-0.9879459891495508</SameParaStyleSpacing>
-			</Properties>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]" StrokeWeight="1.3886210096391924" MiterLimit="5.55448403855677" RubyFontSize="-1.3886210096391924" KentenFontSize="-1.3886210096391924">
-				<Content>* PBM beschreibt ein multimodales und interdisziplinäres Behandlungskonzept zur Verbesserung der Patientenversorgung. Ziel ist es, so achtsam wie möglich mit patienteneigenem Blut umzugehen, um so den Patienten im Falle einer Anämie so wenig wie möglich Fremdblut oder Fremdblutprodukten auszusetzen.    Es soll dadurch eine sich ausbildende krankenhausassoziierte Anämie auf ein Minimum reduziert bzw. vermieden werden.</Content>
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-	</Story>
-</idPkg:Story>

@@ -1,34 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="20.3">
-	<Story Self="u822" AppliedTOCStyle="n" UserText="true" IsEndnoteStory="false" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
-		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
-		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
-		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/PI Unterpunkte_Fließtext">
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>Exemplarisch sind </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
-				<Content>die hier abgebildeten S-Monovetten </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>im </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
-				<Content>EU Farbcode</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content>  vorgestellt:   Art.-Nr.: 01.1601.001, 04.1924, 04.1943.001, 04.2911.001</Content>
-				<Br />
-				<Br />
-				<Br />
-				<Content> Die Artikel-Nummern der entsprechenden S-Monovetten im </Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/SimpleBold">
-				<Content>ISO Farbcode</Content>
-			</CharacterStyleRange>
-			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
-				<Content> sind:   Art.-Nr.: 01.1601.100, 04.1924.100/04.1924.200,  04.193.100/04.1943.200, 04.2911.200</Content>
-			</CharacterStyleRange>
-		</ParagraphStyleRange>
-	</Story>
-</idPkg:Story>
